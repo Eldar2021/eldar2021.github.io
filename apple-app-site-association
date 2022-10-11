@@ -5,7 +5,7 @@
             {
                 "appID": "R3B3857K83.org.encointer.wallet",
                 "paths": [
-                    "*"
+                    "/app/*"
                 ]
             }
         ]
