@@ -3,66 +3,66 @@
     "id": "msg-1",
     "title": "App notifications are now activated",
     "content": "From now on you will receive app notifications from your community. Currently, this only works for Android. The service is free of trackers and works without Google's Push-Notification service.",
-    "showAt": "2022-12-21T02:40:00.00+00:00"
+    "showAt": "2022-12-21T06:20:00.00+00:00"
   },
   {
     "id": "msg-2",
     "title": "Last Chance to Register for Gathering",
     "content": "Today is the last chance to register for the gatherings of the comming cycle. Already the day after tomorrow you can collect the community income.",
-    "showAt": "2022-12-21T02:43:00.00+00:00"
+    "showAt": "2022-12-21T06:23:00.00+00:00"
   },
   {
     "id": "msg-3",
     "title": "Reminder: Gathering is held Tomorrow Noon",
     "content": "Friendly reminder, tomorrow noon the gathering of the comming cycle will take place. If you registered for it, make sure you can attend.",
-    "showAt": "2022-12-21T02:46:00.00+00:00"
+    "showAt": "2022-12-21T06:26:00.00+00:00"
   },
   {
     "id": "msg-4",
     "title": "Reminder: Gathering Today at Noon",
     "content": "Later today the gathering will take place. Check in the app to which location you were assigned. See you later!",
-    "showAt": "2022-12-21T02:49:00.00+00:00"
+    "showAt": "2022-12-21T06:29:00.00+00:00"
   },
   {
     "id": "msg-5",
     "title": "Registrations are Open",
     "content": "Registration for the next cycle's gathering are open. Register today and plan your attendance a week form today.",
-    "showAt": "2022-12-21T02:51:00.00+00:00"
+    "showAt": "2022-12-21T06:31:00.00+00:00"
   },
   {
     "id": "msg-6",
     "title": "Technical Error.",
     "content": "Due to a technical error, you can't send transactions currently. We are working with full power to solve this. No worries: Your funds are save.",
-    "showAt": "2022-12-21T02:54:00.00+00:00"
+    "showAt": "2022-12-21T06:34:00.00+00:00"
   },
   {
     "id": "msg-7",
     "title": "Technical Error.",
     "content": "Due to a technical error, you can't send transactions currently. We are working with full power to solve this. No worries: Your funds are save.",
-    "showAt": "2022-12-21T02:57:00.00+00:00"
+    "showAt": "2022-12-21T06:37:00.00+00:00"
   },
   {
     "id": "msg-8",
     "title": "Technical Error.",
     "content": "Due to a technical error, you can't send transactions currently. We are working with full power to solve this. No worries: Your funds are save.",
-    "showAt": "2022-12-21T03:00:00.00+00:00"
+    "showAt": "2022-12-21T06:40:00.00+00:00"
   },
   {
     "id": "msg-9",
     "title": "Technical Error.",
     "content": "Due to a technical error, you can't send transactions currently. We are working with full power to solve this. No worries: Your funds are save.",
-    "showAt": "2022-12-21T03:03:00.00+00:00"
+    "showAt": "2022-12-21T06:43:00.00+00:00"
   },
   {
     "id": "msg-10",
     "title": "Technical Error.",
     "content": "Due to a technical error, you can't send transactions currently. We are working with full power to solve this. No worries: Your funds are save.",
-    "showAt": "2022-12-21T03:06:00.00+00:00"
+    "showAt": "2022-12-21T06:46:00.00+00:00"
   },
   {
     "id": "msg-11",
     "title": "Technical Error.",
     "content": "Due to a technical error, you can't send transactions currently. We are working with full power to solve this. No worries: Your funds are save.",
-    "showAt": "2022-12-21T03:09:00.00+00:00"
+    "showAt": "2022-12-21T06:49:00.00+00:00"
   }
 ]
