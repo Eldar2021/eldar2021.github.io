@@ -3,43 +3,43 @@
     "id": "msg-1",
     "title": "App notifications are now activated",
     "content": "From now on you will receive app notifications from your community. Currently, this only works for Android. The service is free of trackers and works without Google's Push-Notification service.",
-    "showAt": "2022-12-21T07:30:00.00+00:00",
-    "meetupAt": "2022-12-21T07:40:00.00+00:00"
+    "showAt": "2022-12-21T08:10:00.00+00:00",
+    "meetupAt": "2022-12-21T08:20:00.00+00:00"
   },
   {
     "id": "msg-2",
     "title": "Last Chance to Register for Gathering",
     "content": "Today is the last chance to register for the gatherings of the comming cycle. Already the day after tomorrow you can collect the community income.",
-    "showAt": "2022-12-21T07:33:00.00+00:00",
-    "meetupAt": "2022-12-21T07:43:00.00+00:00"
+    "showAt": "2022-12-21T08:12:00.00+00:00",
+    "meetupAt": "2022-12-21T08:22:00.00+00:00"
   },
   {
     "id": "msg-3",
     "title": "Reminder: Gathering is held Tomorrow Noon",
     "content": "Friendly reminder, tomorrow noon the gathering of the comming cycle will take place. If you registered for it, make sure you can attend.",
-    "showAt": "2022-12-21T07:36:00.00+00:00",
-    "meetupAt": "2022-12-21T07:46:00.00+00:00"
+    "showAt": "2022-12-21T08:14:00.00+00:00",
+    "meetupAt": "2022-12-21T08:24:00.00+00:00"
   },
   {
     "id": "msg-4",
     "title": "Reminder: Gathering Today at Noon",
     "content": "Later today the gathering will take place. Check in the app to which location you were assigned. See you later!",
-    "showAt": "2022-12-21T07:39:00.00+00:00",
-    "meetupAt": "2022-12-21T07:49:00.00+00:00"
+    "showAt": "2022-12-21T08:16:00.00+00:00",
+    "meetupAt": "2022-12-21T08:26:00.00+00:00"
   },
   {
     "id": "msg-5",
     "title": "Registrations are Open",
     "content": "Registration for the next cycle's gathering are open. Register today and plan your attendance a week form today.",
-    "showAt": "2022-12-21T07:41:00.00+00:00",
-    "meetupAt": "2022-12-21T07:51:00.00+00:00"
+    "showAt": "2022-12-21T08:18:00.00+00:00",
+    "meetupAt": "2022-12-21T08:28:00.00+00:00"
   },
   {
     "id": "msg-6",
     "title": "Technical Error.",
     "content": "Due to a technical error, you can't send transactions currently. We are working with full power to solve this. No worries: Your funds are save.",
-    "showAt": "2022-12-21T07:25:00.00+00:00",
-    "meetupAt": "2022-12-21T07:25:00.00+00:00"
+    "showAt": "2022-12-21T08:20:00.00+00:00",
+    "meetupAt": "2022-12-21T08:22:00.00+00:00"
   },
   {
     "id": "msg-7",
