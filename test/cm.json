@@ -3,56 +3,48 @@
     "id": "msg-1",
     "title": "App notifications are now activated",
     "content": "From now on you will receive app notifications from your community. Currently, this only works for Android. The service is free of trackers and works without Google's Push-Notification service.",
-    "showAt": "2022-12-22T11:03:00.00+00:00",
-    "meetupAt": "2022-12-22T11:33:00.00+00:00"
+    "showAt": "2022-12-23T06:00:00.00+00:00"
   },
   {
     "id": "msg-2",
     "title": "Last Chance to Register for Gathering",
     "content": "Today is the last chance to register for the gatherings of the comming cycle. Already the day after tomorrow you can collect the community income.",
-    "showAt": "2022-12-22T11:05:00.00+00:00",
-    "meetupAt": "2022-12-22T11:35:00.00+00:00"
+    "showAt": "2022-12-23T06:02:00.00+00:00"
   },
   {
     "id": "msg-3",
     "title": "Reminder: Gathering is held Tomorrow Noon",
     "content": "Friendly reminder, tomorrow noon the gathering of the comming cycle will take place. If you registered for it, make sure you can attend.",
-    "showAt": "2022-12-22T11:07:00.00+00:00",
-    "meetupAt": "2022-12-22T11:37:00.00+00:00"
+    "showAt": "2022-12-23T06:04:00.00+00:00"
   },
   {
     "id": "msg-4",
     "title": "Reminder: Gathering Today at Noon",
     "content": "Later today the gathering will take place. Check in the app to which location you were assigned. See you later!",
-    "showAt": "2022-12-22T11:10:00.00+00:00",
-    "meetupAt": "2022-12-22T11:40:00.00+00:00"
+    "showAt": "2022-12-23T06:06:00.00+00:00"
   },
   {
     "id": "msg-5",
     "title": "Registrations are Open",
     "content": "Registration for the next cycle's gathering are open. Register today and plan your attendance a week form today.",
-    "showAt": "2022-12-22T11:13:00.00+00:00",
-    "meetupAt": "2022-12-22T11:43:00.00+00:00"
+    "showAt": "2022-12-23T06:08:00.00+00:00"
   },
   {
     "id": "msg-6",
     "title": "Registrations are Open",
     "content": "Registration for the next cycle's gathering are open. Register today and plan your attendance a week form today.",
-    "showAt": "2022-12-22T11:16:00.00+00:00",
-    "meetupAt": "2022-12-22T11:46:00.00+00:00"
+    "showAt": "2022-12-23T06:10:00.00+00:00"
   },
   {
     "id": "msg-5",
     "title": "Registrations are Open",
     "content": "Registration for the next cycle's gathering are open. Register today and plan your attendance a week form today.",
-    "showAt": "2022-12-22T11:20:00.00+00:00",
-    "meetupAt": "2022-12-22T11:50:00.00+00:00"
+    "showAt": "2022-12-23T06:12:00.00+00:00"
   },
   {
     "id": "msg-5",
     "title": "Registrations are Open",
     "content": "Registration for the next cycle's gathering are open. Register today and plan your attendance a week form today.",
-    "showAt": "2022-12-22T11:13:23.00+00:00",
-    "meetupAt": "2022-12-22T11:43:53.00+00:00"
+    "showAt": "2022-12-23T06:14:23.00+00:00"
   }
 ]
