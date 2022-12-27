@@ -1,50 +1,50 @@
 [
   {
-    "id": "msg-1",
+    "id": "1001",
     "title": "App notifications are now activated",
     "content": "From now on you will receive app notifications from your community. Currently, this only works for Android. The service is free of trackers and works without Google's Push-Notification service.",
-    "showAt": "2022-12-23T09:10:00.00+00:00"
+    "showAt": "2022-12-27T04:10:00.00+00:00"
   },
   {
-    "id": "msg-2",
+    "id": "1002",
     "title": "Last Chance to Register for Gathering",
     "content": "Today is the last chance to register for the gatherings of the comming cycle. Already the day after tomorrow you can collect the community income.",
-    "showAt": "2022-12-23T09:12:00.00+00:00"
+    "showAt": "2022-12-27T04:12:00.00+00:00"
   },
   {
-    "id": "msg-3",
+    "id": "1003",
     "title": "Reminder: Gathering is held Tomorrow Noon",
     "content": "Friendly reminder, tomorrow noon the gathering of the comming cycle will take place. If you registered for it, make sure you can attend.",
-    "showAt": "2022-12-23T09:14:00.00+00:00"
+    "showAt": "2022-12-27T04:14:00.00+00:00"
   },
   {
-    "id": "msg-4",
+    "id": "1004",
     "title": "Reminder: Gathering Today at Noon",
     "content": "Later today the gathering will take place. Check in the app to which location you were assigned. See you later!",
-    "showAt": "2022-12-23T09:16:00.00+00:00"
+    "showAt": "2022-12-27T04:16:00.00+00:00"
   },
   {
-    "id": "msg-5",
+    "id": "1005",
     "title": "Registrations are Open",
     "content": "Registration for the next cycle's gathering are open. Register today and plan your attendance a week form today.",
-    "showAt": "2022-12-23T09:18:00.00+00:00"
+    "showAt": "2022-12-27T04:18:00.00+00:00"
   },
   {
-    "id": "msg-6",
+    "id": "1006",
     "title": "Registrations are Open",
     "content": "Registration for the next cycle's gathering are open. Register today and plan your attendance a week form today.",
-    "showAt": "2022-12-23T09:20:00.00+00:00"
+    "showAt": "2022-12-27T04:20:00.00+00:00"
   },
   {
-    "id": "msg-5",
+    "id": "1005",
     "title": "Registrations are Open",
     "content": "Registration for the next cycle's gathering are open. Register today and plan your attendance a week form today.",
-    "showAt": "2022-12-23T09:22:00.00+00:00"
+    "showAt": "2022-12-27T04:22:00.00+00:00"
   },
   {
-    "id": "msg-5",
+    "id": "1005",
     "title": "Registrations are Open",
     "content": "Registration for the next cycle's gathering are open. Register today and plan your attendance a week form today.",
-    "showAt": "2022-12-23T09:24:23.00+00:00"
+    "showAt": "2022-12-27T04:24:23.00+00:00"
   }
 ]
