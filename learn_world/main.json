@@ -1,10 +1,9 @@
 {
-    "001": "example.md",
     "categories": [
         {
             "id": "001",
             "name": "Dart Basic",
-            "svgUrl": null,
+            "svgUrl": "https://raw.githubusercontent.com/Eldar2021/eldar2021.github.io/22a9444e64f0b9ec9800733e25a915660490e4f0/learn_world/icons/dart.svg",
             "articles": [
                 {
                     "id": "001",
@@ -86,7 +85,7 @@
         {
             "id": "002",
             "name": "Flutter Basic",
-            "svgUrl": null,
+            "svgUrl": "https://raw.githubusercontent.com/Eldar2021/eldar2021.github.io/22a9444e64f0b9ec9800733e25a915660490e4f0/learn_world/icons/flutter.svg",
             "articles": [
                 {
                     "id": "001",
