@@ -1,0 +1,498 @@
+{
+    "001": "example.md",
+    "categories": [
+        {
+            "id": "001",
+            "name": "Dart Basic",
+            "svgUrl": null,
+            "articles": [
+                {
+                    "id": "001",
+                    "name": "What is dart",
+                    "locale": "en"
+                },
+                {
+                    "id": "002",
+                    "name": "Hello World",
+                    "locale": "en"
+                },
+                {
+                    "id": "003",
+                    "name": "Variables",
+                    "locale": "en"
+                },
+                {
+                    "id": "004",
+                    "name": "Control flow statements",
+                    "locale": "en"
+                },
+                {
+                    "id": "005",
+                    "name": "Functions",
+                    "locale": "en"
+                },
+                {
+                    "id": "006",
+                    "name": "Comments",
+                    "locale": "en"
+                },
+                {
+                    "id": "007",
+                    "name": "Imports",
+                    "locale": "en"
+                },
+                {
+                    "id": "008",
+                    "name": "Classes",
+                    "locale": "en"
+                },
+                {
+                    "id": "009",
+                    "name": "Enums",
+                    "locale": "en"
+                },
+                {
+                    "id": "010",
+                    "name": "Inheritance",
+                    "locale": "en"
+                },
+                {
+                    "id": "011",
+                    "name": "Mixins",
+                    "locale": "en"
+                },
+                {
+                    "id": "012",
+                    "name": "Interfaces and abstract classes",
+                    "locale": "en"
+                },
+                {
+                    "id": "013",
+                    "name": "Async",
+                    "locale": "en"
+                },
+                {
+                    "id": "014",
+                    "name": "Exceptions",
+                    "locale": "en"
+                },
+                {
+                    "id": "015",
+                    "name": "Important concepts",
+                    "locale": "en"
+                }
+            ]
+        },
+        {
+            "id": "002",
+            "name": "Flutter Basic",
+            "svgUrl": null,
+            "articles": [
+                {
+                    "id": "001",
+                    "name": "Setup Development Environment",
+                    "locale": "en"
+                },
+                {
+                    "id": "002",
+                    "name": "Flutter CLI",
+                    "locale": "en"
+                },
+                {
+                    "id": "003",
+                    "name": "IDEs",
+                    "locale": "en"
+                },
+                {
+                    "id": "004",
+                    "name": "VS Code",
+                    "locale": "en"
+                },
+                {
+                    "id": "005",
+                    "name": "Android Studio",
+                    "locale": "en"
+                },
+                {
+                    "id": "006",
+                    "name": "Widgets",
+                    "locale": "en"
+                },
+                {
+                    "id": "007",
+                    "name": "Inherited Widgets",
+                    "locale": "en"
+                },
+                {
+                    "id": "008",
+                    "name": "Stateless Widgets",
+                    "locale": "en"
+                },
+                {
+                    "id": "009",
+                    "name": "Stateful widgets",
+                    "locale": "en"
+                },
+                {
+                    "id": "010",
+                    "name": "Styled Widgets",
+                    "locale": "en"
+                },
+                {
+                    "id": "011",
+                    "name": "Material Widgets",
+                    "locale": "en"
+                },
+                {
+                    "id": "012",
+                    "name": "Cupertino widgets",
+                    "locale": "en"
+                },
+                {
+                    "id": "013",
+                    "name": "Working with Assets",
+                    "locale": "en"
+                },
+                {
+                    "id": "014",
+                    "name": "Fonts",
+                    "locale": "en"
+                },
+                {
+                    "id": "015",
+                    "name": "Images",
+                    "locale": "en"
+                },
+                {
+                    "id": "016",
+                    "name": "Other File Types",
+                    "locale": "en"
+                }
+            ]
+        },
+        {
+            "id": "003",
+            "name": "Version Control Systems",
+            "svgUrl": null,
+            "articles": [
+                {
+                    "id": "001",
+                    "name": "Git",
+                    "locale": "en"
+                },
+                {
+                    "id": "002",
+                    "name": "Github",
+                    "locale": "en"
+                }
+            ]
+        },
+        {
+            "id": "004",
+            "name": "Design Principles",
+            "svgUrl": null,
+            "articles": [
+                {
+                    "id": "001",
+                    "name": "Dependency Injection",
+                    "locale": "en"
+                },
+                {
+                    "id": "002",
+                    "name": "Design Patterns",
+                    "locale": "en"
+                },
+                {
+                    "id": "003",
+                    "name": "SOLID Principles",
+                    "locale": "en"
+                },
+                {
+                    "id": "004",
+                    "name": "OOP",
+                    "locale": "en"
+                }
+            ]
+        },
+        {
+            "id": "005",
+            "name": "Package Manager",
+            "svgUrl": null,
+            "articles": [
+                {
+                    "id": "001",
+                    "name": "Pub dev",
+                    "locale": "en"
+                },
+                {
+                    "id": "002",
+                    "name": "Flutter pub dart pub",
+                    "locale": "en"
+                }
+            ]
+        },
+        {
+            "id": "006",
+            "name": "Working with APIs",
+            "svgUrl": null,
+            "articles": [
+                {
+                    "id": "001",
+                    "name": "Web Sockets",
+                    "locale": "en"
+                },
+                {
+                    "id": "002",
+                    "name": "GraphQL",
+                    "locale": "en"
+                },
+                {
+                    "id": "003",
+                    "name": "REST API",
+                    "locale": "en"
+                }
+            ]
+        },
+        {
+            "id": "007",
+            "name": "Storage",
+            "svgUrl": null,
+            "articles": [
+                {
+                    "id": "001",
+                    "name": "SQLite",
+                    "locale": "en"
+                },
+                {
+                    "id": "002",
+                    "name": "Shared Preferences",
+                    "locale": "en"
+                },
+                {
+                    "id": "003",
+                    "name": "Hive",
+                    "locale": "en"
+                }
+            ]
+        },
+        {
+            "id": "008",
+            "name": "Firebase",
+            "svgUrl": null,
+            "articles": [
+                {
+                    "id": "001",
+                    "name": "Firebase",
+                    "locale": "en"
+                },
+                {
+                    "id": "002",
+                    "name": "Authentication",
+                    "locale": "en"
+                },
+                {
+                    "id": "003",
+                    "name": "Firestore",
+                    "locale": "en"
+                },
+                {
+                    "id": "004",
+                    "name": "Storage",
+                    "locale": "en"
+                },
+                {
+                    "id": "005",
+                    "name": "Push Notifications",
+                    "locale": "en"
+                },
+                {
+                    "id": "006",
+                    "name": "Remote Config",
+                    "locale": "en"
+                },
+                {
+                    "id": "007",
+                    "name": "Firebase Cloud Functions",
+                    "locale": "en"
+                }
+            ]
+        },
+        {
+            "id": "009",
+            "name": "State Management",
+            "svgUrl": null,
+            "articles": [
+                {
+                    "id": "001",
+                    "name": "Riverpod",
+                    "locale": "en"
+                },
+                {
+                    "id": "002",
+                    "name": "BloC",
+                    "locale": "en"
+                },
+                {
+                    "id": "003",
+                    "name": "Provider",
+                    "locale": "en"
+                },
+                {
+                    "id": "004",
+                    "name": "RxDart",
+                    "locale": "en"
+                }
+            ]
+        },
+        {
+            "id": "010",
+            "name": "Advanced Dart",
+            "svgUrl": null,
+            "articles": [
+                {
+                    "id": "001",
+                    "name": "Lists",
+                    "locale": "en"
+                },
+                {
+                    "id": "002",
+                    "name": "Collections",
+                    "locale": "en"
+                },
+                {
+                    "id": "003",
+                    "name": "Lambdas",
+                    "locale": "en"
+                },
+                {
+                    "id": "004",
+                    "name": "Functional Programming",
+                    "locale": "en"
+                },
+                {
+                    "id": "005",
+                    "name": "Isolates",
+                    "locale": "en"
+                },
+                {
+                    "id": "006",
+                    "name": "Async Await",
+                    "locale": "en"
+                },
+                {
+                    "id": "007",
+                    "name": "Streams",
+                    "locale": "en"
+                },
+                {
+                    "id": "008",
+                    "name": "Futures",
+                    "locale": "en"
+                }
+            ]
+        },
+        {
+            "id": "011",
+            "name": "Animations",
+            "svgUrl": null,
+            "articles": [
+                {
+                    "id": "001",
+                    "name": "Hero",
+                    "locale": "en"
+                },
+                {
+                    "id": "002",
+                    "name": "Opacity",
+                    "locale": "en"
+                }
+            ]
+        },
+        {
+            "id": "012",
+            "name": "Testing",
+            "svgUrl": null,
+            "articles": [
+                {
+                    "id": "001",
+                    "name": "Unit Testing",
+                    "locale": "en"
+                },
+                {
+                    "id": "002",
+                    "name": "Widget Testing",
+                    "locale": "en"
+                },
+                {
+                    "id": "003",
+                    "name": "Integration Testing",
+                    "locale": "en"
+                },
+                {
+                    "id": "004",
+                    "name": "TDD",
+                    "locale": "en"
+                },
+                {
+                    "id": "005",
+                    "name": "BDD",
+                    "locale": "en"
+                }
+            ]
+        },
+        {
+            "id": "013",
+            "name": "Deployment",
+            "svgUrl": null,
+            "articles": [
+                {
+                    "id": "001",
+                    "name": "Appstore",
+                    "locale": "en"
+                },
+                {
+                    "id": "002",
+                    "name": "Playstore",
+                    "locale": "en"
+                },
+                {
+                    "id": "003",
+                    "name": "Guidelines and Protocols",
+                    "locale": "en"
+                }
+            ]
+        },
+        {
+            "id": "014",
+            "name": "CI/CD",
+            "svgUrl": null,
+            "articles": [
+                {
+                    "id": "001",
+                    "name": "Fast lane",
+                    "locale": "en"
+                },
+                {
+                    "id": "002",
+                    "name": "Codemagic",
+                    "locale": "en"
+                },
+                {
+                    "id": "003",
+                    "name": "Bitrise",
+                    "locale": "en"
+                },
+                {
+                    "id": "004",
+                    "name": "Github Actions",
+                    "locale": "en"
+                },
+                {
+                    "id": "005",
+                    "name": "Firebase App Distribution",
+                    "locale": "en"
+                }
+            ]
+        }
+    ]
+}
