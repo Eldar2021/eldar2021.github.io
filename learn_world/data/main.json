@@ -1,494 +1,695 @@
 [
     {
         "id": "001",
-        "name": "Dart Basic",
+        "en": "Dart Basic",
+        "ky": "Dart Базасы",
+        "ru": "Основы Dart",
+        "tr": "Dart Temel",
         "svgUrl": "https://raw.githubusercontent.com/Eldar2021/eldar2021.github.io/22a9444e64f0b9ec9800733e25a915660490e4f0/learn_world/icons/dart.svg",
         "articles": [
             {
                 "id": "001",
-                "name": "What is dart",
-                "locale": "en"
+                "en": "What is dart",
+                "ky": "Dart недир",
+                "ru": "Что такое Dart",
+                "tr": "Dart Nedir"
             },
             {
                 "id": "002",
-                "name": "Hello World",
-                "locale": "en"
+                "en": "Hello World",
+                "ky": "Салам, Дүйнө!",
+                "ru": "Привет, мир!",
+                "tr": "Merhaba Dünya"
             },
             {
                 "id": "003",
-                "name": "Variables",
-                "locale": "en"
+                "en": "Variables",
+                "ky": "Өзгөчөлүктөр",
+                "ru": "Переменные",
+                "tr": "Değişkenler"
             },
             {
                 "id": "004",
-                "name": "Control flow statements",
-                "locale": "en"
+                "en": "Control flow statements",
+                "ky": "Управление течением операторлору",
+                "ru": "Управляющие конструкции",
+                "tr": "Kontrol akış ifadeleri"
             },
             {
                 "id": "005",
-                "name": "Functions",
-                "locale": "en"
+                "en": "Functions",
+                "ky": "Функциялар",
+                "ru": "Функции",
+                "tr": "Fonksiyonlar"
             },
             {
                 "id": "006",
-                "name": "Comments",
-                "locale": "en"
+                "en": "Comments",
+                "ky": "Комментарийлер",
+                "ru": "Комментарии",
+                "tr": "Yorumlar"
             },
             {
                 "id": "007",
-                "name": "Imports",
-                "locale": "en"
+                "en": "Imports",
+                "ky": "Импорттоо",
+                "ru": "Импорт",
+                "tr": "İçe Aktarmalar"
             },
             {
                 "id": "008",
-                "name": "Classes",
-                "locale": "en"
+                "en": "Classes",
+                "ky": "Класстар",
+                "ru": "Классы",
+                "tr": "Sınıflar"
             },
             {
                 "id": "009",
-                "name": "Enums",
-                "locale": "en"
+                "en": "Enums",
+                "ky": "Enums",
+                "ru": "Перечисления",
+                "tr": "Numaralandırmalar"
             },
             {
                 "id": "010",
-                "name": "Inheritance",
-                "locale": "en"
+                "en": "Inheritance",
+                "ky": "Мурууттунуу",
+                "ru": "Наследование",
+                "tr": "Kalıtım"
             },
             {
                 "id": "011",
-                "name": "Mixins",
-                "locale": "en"
+                "en": "Mixins",
+                "ky": "Mixins",
+                "ru": "Миксины",
+                "tr": "Mixin'ler"
             },
             {
                 "id": "012",
-                "name": "Interfaces and abstract classes",
-                "locale": "en"
+                "en": "Interfaces and abstract classes",
+                "ky": "Интерфейс жана абстракттардын класстары",
+                "ru": "Интерфейсы и абстрактные классы",
+                "tr": "Arayüzler ve Soyut Sınıflar"
             },
             {
                 "id": "013",
-                "name": "Async",
-                "locale": "en"
+                "en": "Async",
+                "ky": "Асинк",
+                "ru": "Асинхронность",
+                "tr": "Eşzamansızlık"
             },
             {
                 "id": "014",
-                "name": "Exceptions",
-                "locale": "en"
+                "en": "Exceptions",
+                "ky": "Искөөлөр",
+                "ru": "Исключения",
+                "tr": "İstisnalar"
             },
             {
                 "id": "015",
-                "name": "Important concepts",
-                "locale": "en"
+                "en": "Important concepts",
+                "ky": "Маанилүү концепциялар",
+                "ru": "Важные концепции",
+                "tr": "Önemli Kavramlar"
             }
         ]
     },
     {
         "id": "002",
-        "name": "Flutter Basic",
+        "en": "Flutter Basic",
+        "ky": "Flutter Базасы",
+        "ru": "Основы Flutter",
+        "tr": "Flutter Temel",
         "svgUrl": "https://raw.githubusercontent.com/Eldar2021/eldar2021.github.io/22a9444e64f0b9ec9800733e25a915660490e4f0/learn_world/icons/flutter.svg",
         "articles": [
             {
                 "id": "001",
-                "name": "Setup Development Environment",
-                "locale": "en"
+                "en": "Setup Development Environment",
+                "ky": "Иштөө ортосун туруп салуу",
+                "ru": "Настройка среды разработки",
+                "tr": "Geliştirme Ortamını Kurma"
             },
             {
                 "id": "002",
-                "name": "Flutter CLI",
-                "locale": "en"
+                "en": "Flutter CLI",
+                "ky": "Flutter CLI",
+                "ru": "Flutter CLI",
+                "tr": "Flutter CLI"
             },
             {
                 "id": "003",
-                "name": "IDEs",
-                "locale": "en"
+                "en": "IDEs",
+                "ky": "IDEлер",
+                "ru": "Среды разработки",
+                "tr": "IDE'ler"
             },
             {
                 "id": "004",
-                "name": "VS Code",
-                "locale": "en"
+                "en": "VS Code",
+                "ky": "VS Code",
+                "ru": "VS Code",
+                "tr": "VS Code"
             },
             {
                 "id": "005",
-                "name": "Android Studio",
-                "locale": "en"
+                "en": "Android Studio",
+                "ky": "Android Studio",
+                "ru": "Android Studio",
+                "tr": "Android Studio"
             },
             {
                 "id": "006",
-                "name": "Widgets",
-                "locale": "en"
+                "en": "Widgets",
+                "ky": "Widgets",
+                "ru": "Виджеты",
+                "tr": "Widget'lar"
             },
             {
                 "id": "007",
-                "name": "Inherited Widgets",
-                "locale": "en"
+                "en": "Inherited Widgets",
+                "ky": "Мынадай Widgetтер",
+                "ru": "Наследуемые виджеты",
+                "tr": "Devralınan Widget'lar"
             },
             {
                 "id": "008",
-                "name": "Stateless Widgets",
-                "locale": "en"
+                "en": "Stateless Widgets",
+                "ky": "Stateless Widgetтер",
+                "ru": "Stateless виджеты",
+                "tr": "Durumsuz Widget'lar"
             },
             {
                 "id": "009",
-                "name": "Stateful widgets",
-                "locale": "en"
+                "en": "Stateful widgets",
+                "ky": "Stateful widgetтер",
+                "ru": "Stateful виджеты",
+                "tr": "Durumlu Widget'lar"
             },
             {
                 "id": "010",
-                "name": "Styled Widgets",
-                "locale": "en"
+                "en": "Styled Widgets",
+                "ky": "Сыйланган виджеттер",
+                "ru": "Оформленные виджеты",
+                "tr": "Stil Verilmiş Widget'lar"
             },
             {
                 "id": "011",
-                "name": "Material Widgets",
-                "locale": "en"
+                "en": "Material Widgets",
+                "ky": "Material виджеттер",
+                "ru": "Material виджеты",
+                "tr": "Material Widget'lar"
             },
             {
                 "id": "012",
-                "name": "Cupertino widgets",
-                "locale": "en"
+                "en": "Cupertino widgets",
+                "ky": "Cupertino виджеттер",
+                "ru": "Виджеты Cupertino",
+                "tr": "Cupertino Widget'lar"
             },
             {
                 "id": "013",
-                "name": "Working with Assets",
-                "locale": "en"
+                "en": "Working with Assets",
+                "ky": "Материалдар менен иштелиңиз",
+                "ru": "Работа с ресурсами",
+                "tr": "Varlıklarla Çalışma"
             },
             {
                 "id": "014",
-                "name": "Fonts",
-                "locale": "en"
+                "en": "Fonts",
+                "ky": "Үлгүлөр",
+                "ru": "Шрифты",
+                "tr": "Yazı Tipleri"
             },
             {
                 "id": "015",
-                "name": "Images",
-                "locale": "en"
+                "en": "Images",
+                "ky": "Сүрөттөр",
+                "ru": "Изображения",
+                "tr": "Görüntüler"
             },
             {
                 "id": "016",
-                "name": "Other File Types",
-                "locale": "en"
+                "en": "Other File Types",
+                "ky": "Башка файл түрлөрү",
+                "ru": "Другие типы файлов",
+                "tr": "Diğer Dosya Türleri"
             }
         ]
     },
     {
         "id": "003",
-        "name": "Version Control Systems",
+        "en": "Version Control Systems",
+        "ky": "Нускалар контролдөө системалары",
+        "ru": "Системы контроля версий",
+        "tr": "Sürüm Kontrol Sistemleri",
         "svgUrl": null,
         "articles": [
             {
                 "id": "001",
-                "name": "Git",
-                "locale": "en"
+                "en": "Git",
+                "ky": "Git",
+                "ru": "Git",
+                "tr": "Git"
             },
             {
                 "id": "002",
-                "name": "Github",
-                "locale": "en"
+                "en": "Github",
+                "ky": "Github",
+                "ru": "Github",
+                "tr": "Github"
             }
         ]
     },
     {
         "id": "004",
-        "name": "Design Principles",
+        "en": "Design Principles",
+        "ky": "Дизайндык принциптер",
+        "ru": "Принципы дизайна",
+        "tr": "Tasarım İlkeleri",
         "svgUrl": null,
         "articles": [
             {
                 "id": "001",
-                "name": "Dependency Injection",
-                "locale": "en"
+                "en": "Dependency Injection",
+                "ky": "Байланыштыруу ишкери",
+                "ru": "Внедрение зависимостей",
+                "tr": "Bağımlılık Enjeksiyonu"
             },
             {
                 "id": "002",
-                "name": "Design Patterns",
-                "locale": "en"
+                "en": "Design Patterns",
+                "ky": "Дизайн моддолору",
+                "ru": "Паттерны дизайна",
+                "tr": "Tasarım Kalıpları"
             },
             {
                 "id": "003",
-                "name": "SOLID Principles",
-                "locale": "en"
+                "en": "SOLID Principles",
+                "ky": "SOLID принциптери",
+                "ru": "Принципы SOLID",
+                "tr": "SOLID İlkeleri"
             },
             {
                 "id": "004",
-                "name": "OOP",
-                "locale": "en"
+                "en": "OOP",
+                "ky": "ООП",
+                "ru": "ООП",
+                "tr": "NES"
             }
         ]
     },
     {
         "id": "005",
-        "name": "Package Manager",
+        "en": "Package Manager",
+        "ky": "Пакеттер менеджери",
+        "ru": "Менеджер пакетов",
+        "tr": "Paket Yöneticisi",
         "svgUrl": null,
         "articles": [
             {
                 "id": "001",
-                "name": "Pub dev",
-                "locale": "en"
+                "en": "Pub dev",
+                "ky": "Pub dev",
+                "ru": "Pub dev",
+                "tr": "Pub dev"
             },
             {
                 "id": "002",
-                "name": "Flutter pub dart pub",
-                "locale": "en"
+                "en": "Flutter pub dart pub",
+                "ky": "Flutter pub dart pub",
+                "ru": "Flutter pub dart pub",
+                "tr": "Flutter pub dart pub"
             }
         ]
     },
     {
         "id": "006",
-        "name": "Working with APIs",
+        "en": "Working with APIs",
+        "ky": "APIлар менен иштеш",
+        "ru": "Работа с API",
+        "tr": "API'lerle Çalışmak",
         "svgUrl": null,
         "articles": [
             {
                 "id": "001",
-                "name": "Web Sockets",
-                "locale": "en"
+                "en": "Web Sockets",
+                "ky": "Web сокеттери",
+                "ru": "Веб-сокеты",
+                "tr": "Web Soketleri"
             },
             {
                 "id": "002",
-                "name": "GraphQL",
-                "locale": "en"
+                "en": "GraphQL",
+                "ky": "GraphQL",
+                "ru": "GraphQL",
+                "tr": "GraphQL"
             },
             {
                 "id": "003",
-                "name": "REST API",
-                "locale": "en"
+                "en": "REST API",
+                "ky": "REST API",
+                "ru": "REST API",
+                "tr": "REST API"
             }
         ]
     },
     {
         "id": "007",
-        "name": "Storage",
+        "en": "Storage",
+        "ky": "Сактоо",
+        "ru": "Хранение данных",
+        "tr": "Depolama",
         "svgUrl": null,
         "articles": [
             {
                 "id": "001",
-                "name": "SQLite",
-                "locale": "en"
+                "en": "SQLite",
+                "ky": "SQLite",
+                "ru": "SQLite",
+                "tr": "SQLite"
             },
             {
                 "id": "002",
-                "name": "Shared Preferences",
-                "locale": "en"
+                "en": "Shared Preferences",
+                "ky": "Shared Preferences",
+                "ru": "Shared Preferences",
+                "tr": "Shared Preferences"
             },
             {
                 "id": "003",
-                "name": "Hive",
-                "locale": "en"
+                "en": "Hive",
+                "ky": "Hive",
+                "ru": "Hive",
+                "tr": "Hive"
             }
         ]
     },
     {
         "id": "008",
-        "name": "Firebase",
+        "en": "Firebase",
+        "ky": "Firebase",
+        "ru": "Firebase",
+        "tr": "Firebase",
         "svgUrl": null,
         "articles": [
             {
                 "id": "001",
-                "name": "Firebase",
-                "locale": "en"
+                "en": "Firebase",
+                "ky": "Firebase",
+                "ru": "Firebase",
+                "tr": "Firebase"
             },
             {
                 "id": "002",
-                "name": "Authentication",
-                "locale": "en"
+                "en": "Authentication",
+                "ky": "Аутентификация",
+                "ru": "Аутентификация",
+                "tr": "Kimlik Doğrulama"
             },
             {
                 "id": "003",
-                "name": "Firestore",
-                "locale": "en"
+                "en": "Firestore",
+                "ky": "Firestore",
+                "ru": "Firestore",
+                "tr": "Firestore"
             },
             {
                 "id": "004",
-                "name": "Storage",
-                "locale": "en"
+                "en": "Storage",
+                "ky": "Сактоо",
+                "ru": "Хранение данных",
+                "tr": "Depolama"
             },
             {
                 "id": "005",
-                "name": "Push Notifications",
-                "locale": "en"
+                "en": "Push Notifications",
+                "ky": "Push-билдирүүлөр",
+                "ru": "Push-уведомления",
+                "tr": "Anlık Bildirimler"
             },
             {
                 "id": "006",
-                "name": "Remote Config",
-                "locale": "en"
+                "en": "Remote Config",
+                "ky": "Remote конфигурациясы",
+                "ru": "Удаленная конфигурация",
+                "tr": "Uzaktan Yapılandırma"
             },
             {
                 "id": "007",
-                "name": "Firebase Cloud Functions",
-                "locale": "en"
+                "en": "Firebase Cloud Functions",
+                "ky": "Firebase Cloud функциялары",
+                "ru": "Firebase Cloud функции",
+                "tr": "Firebase Cloud Fonksiyonları"
             }
         ]
     },
     {
         "id": "009",
-        "name": "State Management",
+        "en": "State Management",
+        "ky": "Статус башкаруу",
+        "ru": "Управление состоянием",
+        "tr": "Durum Yönetimi",
         "svgUrl": null,
         "articles": [
             {
                 "id": "001",
-                "name": "Riverpod",
-                "locale": "en"
+                "en": "Riverpod",
+                "ky": "Riverpod",
+                "ru": "Riverpod",
+                "tr": "Riverpod"
             },
             {
                 "id": "002",
-                "name": "BloC",
-                "locale": "en"
+                "en": "BloC",
+                "ky": "BloC",
+                "ru": "BloC",
+                "tr": "BloC"
             },
             {
                 "id": "003",
-                "name": "Provider",
-                "locale": "en"
+                "en": "Provider",
+                "ky": "Provider",
+                "ru": "Provider",
+                "tr": "Provider"
             },
             {
                 "id": "004",
-                "name": "RxDart",
-                "locale": "en"
+                "en": "RxDart",
+                "ky": "RxDart",
+                "ru": "RxDart",
+                "tr": "RxDart"
             }
         ]
     },
     {
         "id": "010",
-        "name": "Advanced Dart",
+        "en": "Advanced Dart",
+        "ky": "Жогорку Dart",
+        "ru": "Продвинутый Dart",
+        "tr": "Gelişmiş Dart",
         "svgUrl": null,
         "articles": [
             {
                 "id": "001",
-                "name": "Lists",
-                "locale": "en"
+                "en": "Lists",
+                "ky": "Тизмелер",
+                "ru": "Списки",
+                "tr": "Listeler"
             },
             {
                 "id": "002",
-                "name": "Collections",
-                "locale": "en"
+                "en": "Collections",
+                "ky": "Коллекции",
+                "ru": "Коллекции",
+                "tr": "Koleksiyonlar"
             },
             {
                 "id": "003",
-                "name": "Lambdas",
-                "locale": "en"
+                "en": "Lambdas",
+                "ky": "Лямбда функциялар",
+                "ru": "Лямбда-выражения",
+                "tr": "Lambdalar"
             },
             {
                 "id": "004",
-                "name": "Functional Programming",
-                "locale": "en"
+                "en": "Functional Programming",
+                "ky": "Функционалдык программалау",
+                "ru": "Функциональное программирование",
+                "tr": "Fonksiyonel Programlama"
             },
             {
                 "id": "005",
-                "name": "Isolates",
-                "locale": "en"
+                "en": "Isolates",
+                "ky": "Изоляциялар",
+                "ru": "Изоляты",
+                "tr": "İzolatlar"
             },
             {
                 "id": "006",
-                "name": "Async Await",
-                "locale": "en"
+                "en": "Async Await",
+                "ky": "Асинк-бекардоо",
+                "ru": "Асинхронность и ожидание",
+                "tr": "Async Await"
             },
             {
                 "id": "007",
-                "name": "Streams",
-                "locale": "en"
+                "en": "Streams",
+                "ky": "Стримдер",
+                "ru": "Потоки",
+                "tr": "Akışlar"
             },
             {
                 "id": "008",
-                "name": "Futures",
-                "locale": "en"
+                "en": "Futures",
+                "ky": "Futures",
+                "ru": "Futures",
+                "tr": "Futures"
             }
         ]
     },
     {
         "id": "011",
-        "name": "Animations",
+        "en": "Animations",
+        "ky": "Анимациялар",
+        "ru": "Анимации",
+        "tr": "Animasyonlar",
         "svgUrl": null,
         "articles": [
             {
                 "id": "001",
-                "name": "Hero",
-                "locale": "en"
+                "en": "Hero",
+                "ky": "Hero",
+                "ru": "Hero",
+                "tr": "Hero"
             },
             {
                 "id": "002",
-                "name": "Opacity",
-                "locale": "en"
+                "en": "Opacity",
+                "ky": "Тунук эмес",
+                "ru": "Непрозрачность",
+                "tr": "Opaklık"
             }
         ]
     },
     {
         "id": "012",
-        "name": "Testing",
+        "en": "Testing",
+        "ky": "Тесттеңиздөө",
+        "ru": "Тестирование",
+        "tr": "Test Etme",
         "svgUrl": null,
         "articles": [
             {
                 "id": "001",
-                "name": "Unit Testing",
-                "locale": "en"
+                "en": "Unit Testing",
+                "ky": "Бөлүктөөн тесттеңиздөө",
+                "ru": "Модульное тестирование",
+                "tr": "Birim Testi"
             },
             {
                 "id": "002",
-                "name": "Widget Testing",
-                "locale": "en"
+                "en": "Widget Testing",
+                "ky": "Виджеттин тесттеңиздөөсү",
+                "ru": "Тестирование виджетов",
+                "tr": "Widget Testi"
             },
             {
                 "id": "003",
-                "name": "Integration Testing",
-                "locale": "en"
+                "en": "Integration Testing",
+                "ky": "Интеграциялуу тесттеңиздөө",
+                "ru": "Интеграционное тестирование",
+                "tr": "Entegrasyon Testi"
             },
             {
                 "id": "004",
-                "name": "TDD",
-                "locale": "en"
+                "en": "TDD",
+                "ky": "TDD",
+                "ru": "TDD",
+                "tr": "TDD"
             },
             {
                 "id": "005",
-                "name": "BDD",
-                "locale": "en"
+                "en": "BDD",
+                "ky": "BDD",
+                "ru": "BDD",
+                "tr": "BDD"
             }
         ]
     },
     {
         "id": "013",
-        "name": "Deployment",
+        "en": "Deployment",
+        "ky": "Жүктөө",
+        "ru": "Развёртывание",
+        "tr": "Dağıtım",
         "svgUrl": null,
         "articles": [
             {
                 "id": "001",
-                "name": "Appstore",
-                "locale": "en"
+                "en": "Appstore",
+                "ky": "Appstore",
+                "ru": "Appstore",
+                "tr": "Appstore"
             },
             {
                 "id": "002",
-                "name": "Playstore",
-                "locale": "en"
+                "en": "Playstore",
+                "ky": "Playstore",
+                "ru": "Playstore",
+                "tr": "Playstore"
             },
             {
                 "id": "003",
-                "name": "Guidelines and Protocols",
-                "locale": "en"
+                "en": "Guidelines and Protocols",
+                "ky": "Жүйөлөрдүн жөнөтү",
+                "ru": "Руководства и протоколы",
+                "tr": "Kılavuzlar ve Protokoller"
             }
         ]
     },
     {
         "id": "014",
-        "name": "CI/CD",
+        "en": "CI/CD",
+        "ky": "CI/CD",
+        "ru": "CI/CD",
+        "tr": "CI/CD",
         "svgUrl": null,
         "articles": [
             {
                 "id": "001",
-                "name": "Fast lane",
-                "locale": "en"
+                "en": "Fast lane",
+                "ky": "Fast lane",
+                "ru": "Fast lane",
+                "tr": "Fast lane"
             },
             {
                 "id": "002",
-                "name": "Codemagic",
-                "locale": "en"
+                "en": "Codemagic",
+                "ky": "Codemagic",
+                "ru": "Codemagic",
+                "tr": "Codemagic"
             },
             {
                 "id": "003",
-                "name": "Bitrise",
-                "locale": "en"
+                "en": "Bitrise",
+                "ky": "Bitrise",
+                "ru": "Bitrise",
+                "tr": "Bitrise"
             },
             {
                 "id": "004",
-                "name": "Github Actions",
-                "locale": "en"
+                "en": "Github Actions",
+                "ky": "Github Actions",
+                "ru": "Github Actions",
+                "tr": "Github Actions"
             },
             {
                 "id": "005",
                 "name": "Firebase App Distribution",
-                "locale": "en"
+                "en": "Firebase App Distribution",
+                "ky": "Firebase App Distribution",
+                "ru": "Firebase App Distribution",
+                "tr": "Firebase App Distribution"
             }
         ]
     }
