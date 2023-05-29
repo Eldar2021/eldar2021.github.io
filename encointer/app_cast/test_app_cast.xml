@@ -26,7 +26,7 @@
             <title>Version 1.8.6</title>
             <pubDate>Sat, 26 Jul 2014 15:20:13 +0000</pubDate>
             <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="4.0" sparkle:os="iOS" />
-            <sparkle:minimumSystemVersion>sparkle:minimumSystemVersion>
+            <sparkle:minimumSystemVersion></sparkle:minimumSystemVersion>
         </item>
         <!-- A joke release testing maximumSystemVersion -->
         <item>
