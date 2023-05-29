@@ -31,7 +31,7 @@
         <!-- A joke release testing maximumSystemVersion -->
         <item>
             <title>Version 7.8.6</title>
-            <sparkle:version>7.8.6</sparkle:version>
+            <sparkle:version>1.9.3</sparkle:version>
             <sparkle:maximumSystemVersion></sparkle:maximumSystemVersion>
         </item>
     </channel>
