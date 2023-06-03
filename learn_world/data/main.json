@@ -105,10 +105,10 @@
             },
             {
                 "id": [
-                    "WaMmg",
-                    "WaMmg",
-                    "WaMmg",
-                    "WaMmg"
+                    "5FJE1",
+                    "haEAC",
+                    "LMHlQ",
+                    "fjiKw"
                 ],
                 "en": "Enums",
                 "ky": "Enums",
@@ -117,10 +117,10 @@
             },
             {
                 "id": [
-                    "WaMmg",
-                    "WaMmg",
-                    "WaMmg",
-                    "WaMmg"
+                    "PSe0A",
+                    "U2VDa",
+                    "CQ19O",
+                    "PVHt9"
                 ],
                 "en": "Inheritance",
                 "ky": "Мурууттунуу",
@@ -129,10 +129,10 @@
             },
             {
                 "id": [
-                    "WaMmg",
-                    "WaMmg",
-                    "WaMmg",
-                    "WaMmg"
+                    "F4SIL",
+                    "DH7Zi",
+                    "kj2vd",
+                    "m80c1"
                 ],
                 "en": "Mixins",
                 "ky": "Mixins",
@@ -141,10 +141,10 @@
             },
             {
                 "id": [
-                    "WaMmg",
-                    "WaMmg",
-                    "WaMmg",
-                    "WaMmg"
+                    "KyIb0",
+                    "NVJc7",
+                    "VBkWT",
+                    "ox4Ut"
                 ],
                 "en": "Interfaces and abstract classes",
                 "ky": "Интерфейс жана абстракттардын класстары",
@@ -153,10 +153,10 @@
             },
             {
                 "id": [
-                    "WaMmg",
-                    "WaMmg",
-                    "WaMmg",
-                    "WaMmg"
+                    "4xP6P",
+                    "ouUV5",
+                    "2gARg",
+                    "XtVfF"
                 ],
                 "en": "Async",
                 "ky": "Асинк",
@@ -165,27 +165,15 @@
             },
             {
                 "id": [
-                    "WaMmg",
-                    "WaMmg",
-                    "WaMmg",
-                    "WaMmg"
+                    "gVGaO",
+                    "Y8O4M",
+                    "objR8",
+                    "eMgzQ"
                 ],
                 "en": "Exceptions",
                 "ky": "Искөөлөр",
                 "ru": "Исключения",
                 "tr": "İstisnalar"
-            },
-            {
-                "id": [
-                    "WaMmg",
-                    "WaMmg",
-                    "WaMmg",
-                    "WaMmg"
-                ],
-                "en": "Important concepts",
-                "ky": "Маанилүү концепциялар",
-                "ru": "Важные концепции",
-                "tr": "Önemli Kavramlar"
             }
         ]
     },
