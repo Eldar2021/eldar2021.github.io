@@ -1,1 +1,1 @@
-https://eldar2021.github.io/my_data/my_data.json
+https://eldar2021.github.io/
