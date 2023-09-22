@@ -1,0 +1,32 @@
+[
+    {
+        "id": "4000029",
+        "title": "Reminder: Gathering Today at Noon",
+        "content": "Later today the gathering will take place. Check in the app to which location you were assigned. See you later!",
+        "showAt": "2023-01-18T08:30:00.00+00:00"
+    },
+    {
+        "id": "1000030",
+        "title": "Registrations are Open",
+        "content": "Registration for the next cycle's gathering are open. Register today and plan your attendance a week from today.",
+        "showAt": "2023-01-21T11:30:00.00+00:00"
+    },
+    {
+        "id": "2000030",
+        "title": "Last Chance to Register for Gathering",
+        "content": "Today is the last chance to register for the gatherings of the coming cycle. Already the day after tomorrow you can collect the community income.",
+        "showAt": "2023-01-26T11:30:00.00+00:00"
+    },
+    {
+        "id": "3000030",
+        "title": "Reminder: Gathering is held Tomorrow Noon",
+        "content": "Friendly reminder, tomorrow noon the gathering of the coming cycle will take place. If you registered for it, make sure you can attend.",
+        "showAt": "2023-01-27T11:30:00.00+00:00"
+    },
+    {
+        "id": "4000030",
+        "title": "Reminder: Gathering Today at Noon",
+        "content": "Later today the gathering will take place. Check in the app to which location you were assigned. See you later!",
+        "showAt": "2023-01-28T08:30:00.00+00:00"
+    }
+]
