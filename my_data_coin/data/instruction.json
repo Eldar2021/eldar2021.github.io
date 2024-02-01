@@ -1,128 +1,100 @@
 [
     {
-        "title1_en":null,
-        "title2_en":"Start earning money!",
-        "body_en":"If you have downloaded our app, then you recognize the importance of protecting your personal data! Please read through to the end to understand how to use our app. Thank you for participating in the revolution in the field of personal data protection with MyDataCoin!",
-        "image_en":"https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/eng1.png?raw=true"
+        "title1_en": null,
+        "title2_en": "Start earning money!",
+        "body_en": "If you have downloaded our app, then you recognize the importance of protecting your personal data! Please read through to the end to understand how to use our app. Thank you for participating in the revolution in the field of personal data protection with MyDataCoin!",
+        "image_en": "https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/eng1.png?raw=true",
+        "title1_kk": null,
+        "title2_kk": "Ақша табуды бастаңыз!",
+        "body_kk": "Егер сіз біздің қосымшаны жүктеген болсаңыз, онда сіз өзіңіздің жеке деректеріңізді қорғаудың маңыздылығын мойындайсыз! Біздің қосымшаны қалай пайдалану керектігін түсіну үшін соңына дейін оқып шығыңыз. MyDataCoin көмегімен жеке деректерді қорғау төңкерісіне қатысқаныңыз үшін рахмет!",
+        "image_kk": "https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/kk1.png?raw=true",
+        "title1_ru": null,
+        "title2_ru": "Начните зарабатывать!",
+        "body_ru": "Если вы скачали наше приложение, значит вы признаете важность защиты своих персональных данных! Пожалуйста, прочитайте до конца, чтобы понять, как пользоваться нашим приложением. Спасибо, что стали участником революции в области защиты персональных данных с MyDataCoin!",
+        "image_ru": "https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/ru1.png?raw=true"
     },
     {
-        "title1_en":null,
-        "title2_en":"Choose a provider",
-        "body_en":"To start configuring privacy and monetization settings, select the desired data provider by clicking on the appropriate icon.",
-        "image_en":"https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/eng2.png?raw=true"
+        "title1_en": null,
+        "title2_en": "Choose a provider",
+        "body_en": "To start configuring privacy and monetization settings, select the desired data provider by clicking on the appropriate icon.",
+        "image_en": "https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/eng2.png?raw=true",
+        "title1_kk": null,
+        "title2_kk": "Провайдерді таңдаңыз",
+        "body_kk": "Құпиялылық және монетизация параметрлерін орнатуды бастау үшін тиісті белгішені басу арқылы қажетті деректер провайдерін таңдаңыз",
+        "image_kk": "https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/kk2.png?raw=true",
+        "title1_ru": null,
+        "title2_ru": "Выберите провайдера",
+        "body_ru": "Для начала настройки параметров конфиденциальности и монетизации выберите желаемого провайдера данных, нажав на соответствующую иконку.",
+        "image_ru": "https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/ru2.png?raw=true"
     },
     {
-        "title1_en":null,
-        "title2_en":"Provide your consent",
-        "body_en":"Give your consent to a certain data provider to process and monetize your personal data and receive detailed reports on data transactions.",
-        "image_en":"https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/eng3.png?raw=true"
+        "title1_en": null,
+        "title2_en": "Provide your consent",
+        "body_en": "Give your consent to a certain data provider to process and monetize your personal data and receive detailed reports on data transactions.",
+        "image_en": "https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/eng3.png?raw=true",
+        "title1_kk": null,
+        "title2_kk": "Сіздің келісіміңізді беріңіз",
+        "body_kk": "Жеке деректеріңізді өңдеуге және монетизациялауға белгілі бір деректер провайдеріне келісіміңізді беріңіз және деректер транзакциялары туралы егжей-тегжейлі есептерді алыңыз.",
+        "image_kk": "https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/kk3.png?raw=true",
+        "title1_ru": null,
+        "title2_ru": "Предоставьте ваше согласие",
+        "body_ru": "Дайте свое согласие определенному провайдеру данных на обработку и монетизацию ваших персональных данных и получайте подробные отчеты о транзакциях данных.",
+        "image_ru": "https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/ru3.png?raw=true"
     },
     {
-        "title1_en":null,
-        "title2_en":"Fill in the required fields",
-        "body_en":"Provide us with the necessary data. Fill in your INN, and then click on the “Accept” button",
-        "image_en":"https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/eng4.png?raw=true"
+        "title1_en": null,
+        "title2_en": "Fill in the required fields",
+        "body_en": "Provide us with the necessary data. Fill in your INN, and then click on the “Accept” button",
+        "image_en": "https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/eng4.png?raw=true",
+        "title1_kk": null,
+        "title2_kk": "Қажетті өрістерді толтырыңыз",
+        "body_kk": "Бізге қажетті деректерді беріңіз. СТН толтырыңыз, содан кейін 'Қабылдау' түймесін басыңыз",
+        "image_kk": "https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/kk4.png?raw=true",
+        "title1_ru": null,
+        "title2_ru": "Пройдите идентификацию",
+        "body_ru": "Подтвердите Вашу личность, пройдите идентификацию посредством технологии распознавания лица. ",
+        "image_ru": "https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/ru5.png?raw=true"
     },
     {
-        "title1_en":null,
-        "title2_en":"Complete identification",
-        "body_en":"Confirm your identity and complete identification using facial recognition technology.",
-        "image_en":"https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/eng5.png?raw=true"
+        "title1_en": null,
+        "title2_en": "Complete identification",
+        "body_en": "Confirm your identity and complete identification using facial recognition technology.",
+        "image_en": "https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/eng5.png?raw=true",
+        "title1_kk": null,
+        "title2_kk": "Сәйкестендіруден өтіңіз",
+        "body_kk": "Жеке басыңызды растаңыз, бетті тану технологиясы арқылы сәйкестендіруден өтіңіз.",
+        "image_kk": "https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/kk5.png?raw=true",
+        "title1_ru": null,
+        "title2_ru": "Заполните необходимые поля",
+        "body_ru": "Предоставьте нам необходимые данные. Заполните Ваш ИНН, а затем нажмите на кнопку “Принять”",
+        "image_ru": "https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/ru4.png?raw=true"
     },
     {
-        "title1_en":null,
-        "title2_en":"See the history of your data",
-        "body_en":"In this section, you can get detailed reports on data transactions.",
-        "image_en":"https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/eng6.png?raw=true"
+        "title1_en": null,
+        "title2_en": "See the history of your data",
+        "body_en": "In this section, you can get detailed reports on data transactions.",
+        "image_en": "https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/eng6.png?raw=true",
+        "title1_kk": null,
+        "title2_kk": "Деректеріңіздің тарихын қараңыз",
+        "body_kk": "Бұл бөлімде сіз деректер транзакциялары туралы толық есептерді ала аласыз.",
+        "image_kk": "https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/kk6.png?raw=true",
+        "title1_ru": null,
+        "title2_ru": "Смотрите историю своих данных",
+        "body_ru": "В данном разделе Вы можете получить подробные отчеты о транзакциях данных.",
+        "image_ru": "https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/ru6.png?raw=true"
     },
     {
-        "title1_en":"Congratulations! Now you're ready to go!",
-        "title2_en":"Done!",
-        "body_en":"The control of your personal data is your fundamental right! And no one can take it away from you.",
-        "image_en":"https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/eng7.png?raw=true"
-    },
-    {
-        "title1_kk":null,
-        "title2_kk":"Ақша табуды бастаңыз!",
-        "body_kk":"Егер сіз біздің қосымшаны жүктеген болсаңыз, онда сіз өзіңіздің жеке деректеріңізді қорғаудың маңыздылығын мойындайсыз! Біздің қосымшаны қалай пайдалану керектігін түсіну үшін соңына дейін оқып шығыңыз. MyDataCoin көмегімен жеке деректерді қорғау төңкерісіне қатысқаныңыз үшін рахмет!",
-        "image_kk":"https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/kk1.png?raw=true"
-    },
-    {
-        "title1_kk":null,
-        "title2_kk":"Провайдерді таңдаңыз",
-        "body_kk":"Құпиялылық және монетизация параметрлерін орнатуды бастау үшін тиісті белгішені басу арқылы қажетті деректер провайдерін таңдаңыз",
-        "image_kk":"https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/kk2.png?raw=true"
-    },
-    {
-        "title1_kk":null,
-        "title2_kk":"Сіздің келісіміңізді беріңіз",
-        "body_kk":"Жеке деректеріңізді өңдеуге және монетизациялауға белгілі бір деректер провайдеріне келісіміңізді беріңіз және деректер транзакциялары туралы егжей-тегжейлі есептерді алыңыз.",
-        "image_kk":"https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/kk3.png?raw=true"
-    },
-    {
-        "title1_kk":null,
-        "title2_kk":"Қажетті өрістерді толтырыңыз",
-        "body_kk":"Бізге қажетті деректерді беріңіз. СТН толтырыңыз, содан кейін 'Қабылдау' түймесін басыңыз",
-        "image_kk":"https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/kk4.png?raw=true"
-    },
-    {
-        "title1_kk":null,
-        "title2_kk":"Сәйкестендіруден өтіңіз",
-        "body_kk":"Жеке басыңызды растаңыз, бетті тану технологиясы арқылы сәйкестендіруден өтіңіз.",
-        "image_kk":"https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/kk5.png?raw=true"
-    },
-    {
-        "title1_kk":null,
-        "title2_kk":"Деректеріңіздің тарихын қараңыз",
-        "body_kk":"Бұл бөлімде сіз деректер транзакциялары туралы толық есептерді ала аласыз.",
-        "image_kk":"https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/kk6.png?raw=true"
-    },
-    {
-        "title1_kk":"Құттықтаймыз, енді сіз ақша табуға дайынсыз!",
-        "title2_kk":"Дайын!",
-        "body_kk":"Сіздің жеке деректеріңізді бақылау-бұл сіздің негізгі құқығыңыз! Оны сізден ешкім тартып ала алмайды.",
-        "image_kk":"https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/kk7.png?raw=true"
-    },
-    {
-        "title1_ru":null,
-        "title2_ru":"Начните зарабатывать!",
-        "body_ru":"Если вы скачали наше приложение, значит вы признаете важность защиты своих персональных данных! Пожалуйста, прочитайте до конца, чтобы понять, как пользоваться нашим приложением. Спасибо, что стали участником революции в области защиты персональных данных с MyDataCoin!",
-        "image_ru":"https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/ru1.png?raw=true"
-    },
-    {
-        "title1_ru":null,
-        "title2_ru":"Выберите провайдера",
-        "body_ru":"Для начала настройки параметров конфиденциальности и монетизации выберите желаемого провайдера данных, нажав на соответствующую иконку.",
-        "image_ru":"https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/ru2.png?raw=true"
-    },
-    {
-        "title1_ru":null,
-        "title2_ru":"Предоставьте ваше согласие",
-        "body_ru":"Дайте свое согласие определенному провайдеру данных на обработку и монетизацию ваших персональных данных и получайте подробные отчеты о транзакциях данных.",
-        "image_ru":"https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/ru3.png?raw=true"
-    },
-    {
-        "title1_ru":null,
-        "title2_ru":"Заполните необходимые поля",
-        "body_ru":"Предоставьте нам необходимые данные. Заполните Ваш ИНН, а затем нажмите на кнопку “Принять”",
-        "image_ru":"https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/ru4.png?raw=true"
-    },
-    {
-        "title1_ru":null,
-        "title2_ru":"Пройдите идентификацию",
-        "body_ru":"Подтвердите Вашу личность, пройдите идентификацию посредством технологии распознавания лица. ",
-        "image_ru":"https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/ru5.png?raw=true"
-    },
-    {
-        "title1_ru":null,
-        "title2_ru":"Смотрите историю своих данных",
-        "body_ru":"В данном разделе Вы можете получить подробные отчеты о транзакциях данных.",
-        "image_ru":"https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/ru6.png?raw=true"
-    },
-    {
-        "title1_ru":"Поздравляем, теперь вы готовы зарабатывать!",
-        "title2_ru":"Готово!",
-        "body_ru":"Контроль Ваших персональных данных - это Ваше фундаментальное право! И никто не может у Вас его отнять",
-        "image_ru":"https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/ru7.png?raw=true"
+        "title1_en": "Congratulations! Now you're ready to go!",
+        "title2_en": "Done!",
+        "body_en": "The control of your personal data is your fundamental right! And no one can take it away from you.",
+        "image_en": "https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/eng7.png?raw=true",
+        "title1_kk": "Құттықтаймыз, енді сіз ақша табуға дайынсыз!",
+        "title2_kk": "Дайын!",
+        "body_kk": "Сіздің жеке деректеріңізді бақылау-бұл сіздің негізгі құқығыңыз! Оны сізден ешкім тартып ала алмайды.",
+        "image_kk": "https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/kk7.png?raw=true",
+        "title1_ru": "Поздравляем, теперь вы готовы зарабатывать!",
+        "title2_ru": "Готово!",
+        "body_ru": "Контроль Ваших персональных данных - это Ваше фундаментальное право! И никто не может у Вас его отнять",
+        "image_ru": "https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/ru7.png?raw=true"
     }
 ]
