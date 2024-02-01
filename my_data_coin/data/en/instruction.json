@@ -1,0 +1,44 @@
+[
+    {
+        "title1":null,
+        "title2":"Start earning money!",
+        "body":"If you have downloaded our app, then you recognize the importance of protecting your personal data! Please read through to the end to understand how to use our app. Thank you for participating in the revolution in the field of personal data protection with MyDataCoin!",
+        "image":"https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/eng1.png?raw=true"
+    },
+    {
+        "title1":null,
+        "title2":"Choose a provider",
+        "body":"To start configuring privacy and monetization settings, select the desired data provider by clicking on the appropriate icon.",
+        "image":"https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/eng2.png?raw=true"
+    },
+    {
+        "title1":null,
+        "title2":"Provide your consent",
+        "body":"Give your consent to a certain data provider to process and monetize your personal data and receive detailed reports on data transactions.",
+        "image":"https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/eng3.png?raw=true"
+    },
+    {
+        "title1":null,
+        "title2":"Fill in the required fields",
+        "body":"Provide us with the necessary data. Fill in your INN, and then click on the “Accept” button",
+        "image":"https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/eng4.png?raw=true"
+    },
+    {
+        "title1":null,
+        "title2":"Complete identification",
+        "body":"Confirm your identity and complete identification using facial recognition technology.",
+        "image":"https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/eng5.png?raw=true"
+    },
+    {
+        "title1":null,
+        "title2":"See the history of your data",
+        "body":"In this section, you can get detailed reports on data transactions.",
+        "image":"https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/eng6.png?raw=true"
+    },
+    {
+        "title1":"Congratulations! Now you're ready to go!",
+        "title2":"Done!",
+        "body":"The control of your personal data is your fundamental right! And no one can take it away from you.",
+        "image":"https://github.com/Eldar2021/eldar2021.github.io/blob/main/my_data_coin/images/eng7.png?raw=true"
+    }
+]
