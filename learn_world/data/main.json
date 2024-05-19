@@ -9,10 +9,10 @@
         "articles": [
             {
                 "id": [
-                    "9Johu",
-                    "7EsEj",
-                    "QbC0T",
-                    "NeI93"
+                    "Bstvf",
+                    "iDMSH",
+                    "lZIYP",
+                    "rZfH1"
                 ],
                 "en": "What is dart",
                 "ky": "Dart недир",
@@ -21,10 +21,10 @@
             },
             {
                 "id": [
-                    "dFZzn",
-                    "lMxBm",
-                    "LOaVk",
-                    "f7gBE"
+                    "W0L2G",
+                    "UOBv3",
+                    "glZKp",
+                    "gQNL1"
                 ],
                 "en": "Hello World",
                 "ky": "Салам, Дүйнө!",
@@ -33,10 +33,10 @@
             },
             {
                 "id": [
-                    "G4uKr",
-                    "Nu8mb",
-                    "ol1pC",
-                    "ZoyYP"
+                    "9Fu4K",
+                    "WBDVI",
+                    "AlR5l",
+                    "o3eaY"
                 ],
                 "en": "Variables",
                 "ky": "Өзгөчөлүктөр",
@@ -45,10 +45,10 @@
             },
             {
                 "id": [
-                    "0U3Vy",
-                    "gtP9R",
-                    "Lgb7h",
-                    "QU6b2"
+                    "Fzrq8",
+                    "OlEWQ",
+                    "Im4NR",
+                    "iV9e9"
                 ],
                 "en": "Control flow statements",
                 "ky": "Управление течением операторлору",
@@ -57,10 +57,10 @@
             },
             {
                 "id": [
-                    "xASGK",
-                    "3HF58",
-                    "YzaYn",
-                    "nzyUE"
+                    "s7QBt",
+                    "wPvbD",
+                    "3HyYT",
+                    "ZTbcj"
                 ],
                 "en": "Functions",
                 "ky": "Функциялар",
@@ -69,10 +69,10 @@
             },
             {
                 "id": [
-                    "OkEvt",
-                    "is2sv",
-                    "bFU9e",
-                    "EeMAk"
+                    "JW7K6",
+                    "ZWBs3",
+                    "QcJSg",
+                    "pN5PI"
                 ],
                 "en": "Comments",
                 "ky": "Комментарийлер",
@@ -81,10 +81,10 @@
             },
             {
                 "id": [
-                    "Jd6Z4",
-                    "JFVAm",
-                    "GEpoD",
-                    "Whjcf"
+                    "pX6te",
+                    "SgQX9",
+                    "88pkG",
+                    "s0wV8"
                 ],
                 "en": "Imports",
                 "ky": "Импорттоо",
@@ -93,10 +93,10 @@
             },
             {
                 "id": [
-                    "60Zat",
-                    "Fuuzr",
-                    "2RYWe",
-                    "Ls0vk"
+                    "XW47l",
+                    "1DRRc",
+                    "qVmPN",
+                    "1eeV3"
                 ],
                 "en": "Classes",
                 "ky": "Класстар",
@@ -105,10 +105,10 @@
             },
             {
                 "id": [
-                    "5FJE1",
-                    "haEAC",
-                    "LMHlQ",
-                    "fjiKw"
+                    "64h7h",
+                    "uim9R",
+                    "Mb9v9",
+                    "mRFC4"
                 ],
                 "en": "Enums",
                 "ky": "Enums",
@@ -117,10 +117,10 @@
             },
             {
                 "id": [
-                    "PSe0A",
-                    "U2VDa",
-                    "CQ19O",
-                    "PVHt9"
+                    "PXypn",
+                    "2N3Us",
+                    "RXSyt",
+                    "YJnWt"
                 ],
                 "en": "Inheritance",
                 "ky": "Мурууттунуу",
@@ -129,10 +129,10 @@
             },
             {
                 "id": [
-                    "F4SIL",
-                    "DH7Zi",
-                    "kj2vd",
-                    "m80c1"
+                    "UMT2X",
+                    "E4pYs",
+                    "J7tYr",
+                    "VzWVn"
                 ],
                 "en": "Mixins",
                 "ky": "Mixins",
@@ -141,10 +141,10 @@
             },
             {
                 "id": [
-                    "KyIb0",
-                    "NVJc7",
-                    "VBkWT",
-                    "ox4Ut"
+                    "3gDjZ",
+                    "RJD2n",
+                    "UBq0M",
+                    "RpAAD"
                 ],
                 "en": "Interfaces and abstract classes",
                 "ky": "Интерфейс жана абстракттардын класстары",
@@ -153,10 +153,10 @@
             },
             {
                 "id": [
-                    "4xP6P",
-                    "ouUV5",
-                    "2gARg",
-                    "XtVfF"
+                    "JBb0o",
+                    "MUeNJ",
+                    "lOyqk",
+                    "lCEFm"
                 ],
                 "en": "Async",
                 "ky": "Асинк",
@@ -165,10 +165,10 @@
             },
             {
                 "id": [
-                    "gVGaO",
-                    "Y8O4M",
-                    "objR8",
-                    "eMgzQ"
+                    "wd6k1",
+                    "4P1QK",
+                    "BNGL0",
+                    "Ek0vB"
                 ],
                 "en": "Exceptions",
                 "ky": "Искөөлөр",
@@ -187,10 +187,10 @@
         "articles": [
             {
                 "id": [
-                    "ok5xc",
-                    "Hd28f",
-                    "s7AYs",
-                    "29mh8"
+                    "BAZNm",
+                    "WAF4E",
+                    "HKETd",
+                    "vUR4Y"
                 ],
                 "en": "Setup Development Environment",
                 "ky": "Иштөө ортосун туруп салуу",
@@ -199,10 +199,10 @@
             },
             {
                 "id": [
-                    "SWWos",
-                    "LDrQJ",
-                    "inP5R",
-                    "3Indb"
+                    "cS88X",
+                    "7HQ0z",
+                    "L9DPC",
+                    "GCEN5"
                 ],
                 "en": "Flutter CLI",
                 "ky": "Flutter CLI",
@@ -211,10 +211,10 @@
             },
             {
                 "id": [
-                    "IvePs",
-                    "DrMQd",
-                    "XTZCo",
-                    "3gTdn"
+                    "RfMu6",
+                    "yz5Ly",
+                    "zRMI2",
+                    "8wMOl"
                 ],
                 "en": "IDEs",
                 "ky": "IDEлер",
@@ -223,10 +223,10 @@
             },
             {
                 "id": [
-                    "smXNw",
-                    "kpA1g",
-                    "pVubr",
-                    "pwSpG"
+                    "JzjBB",
+                    "E6Bqm",
+                    "1I6ye",
+                    "ziE2n"
                 ],
                 "en": "VS Code",
                 "ky": "VS Code",
@@ -235,10 +235,10 @@
             },
             {
                 "id": [
-                    "dGdiK",
-                    "pfub6",
-                    "CBjYE",
-                    "La5KT"
+                    "uhmoI",
+                    "nGaC8",
+                    "BOFdZ",
+                    "upF0Z"
                 ],
                 "en": "Android Studio",
                 "ky": "Android Studio",
@@ -247,10 +247,10 @@
             },
             {
                 "id": [
-                    "bMUMO",
-                    "I1vkr",
-                    "Igb8Z",
-                    "tsm5f"
+                    "jzQpT",
+                    "qkLmp",
+                    "D2AaH",
+                    "O3iLQ"
                 ],
                 "en": "Widgets",
                 "ky": "Widgets",
@@ -259,10 +259,10 @@
             },
             {
                 "id": [
-                    "qQMcz",
-                    "kQWA0",
-                    "XHlYX",
-                    "ngkOa"
+                    "AY0Ao",
+                    "IvNHd",
+                    "xzNOF",
+                    "abvwY"
                 ],
                 "en": "Inherited Widgets",
                 "ky": "Мынадай Widgetтер",
@@ -271,10 +271,10 @@
             },
             {
                 "id": [
-                    "91DE5",
-                    "lzBjN",
-                    "O2rAs",
-                    "FEZZi"
+                    "q4jwD",
+                    "vaq3g",
+                    "4kFYJ",
+                    "HuigP"
                 ],
                 "en": "Stateless Widgets",
                 "ky": "Stateless Widgetтер",
@@ -283,10 +283,10 @@
             },
             {
                 "id": [
-                    "vo2M4",
-                    "XbPa6",
-                    "A7MDj",
-                    "7JJfQ"
+                    "YBpaw",
+                    "35Xw1",
+                    "bX4Z9`",
+                    "BPrOi"
                 ],
                 "en": "Stateful widgets",
                 "ky": "Stateful widgetтер",
@@ -295,10 +295,10 @@
             },
             {
                 "id": [
-                    "fIjdk",
-                    "Vz79L",
-                    "nhaJW",
-                    "ck351"
+                    "dSgVh",
+                    "1IGFC",
+                    "ZjEHw",
+                    "2L6k4"
                 ],
                 "en": "Styled Widgets",
                 "ky": "Сыйланган виджеттер",
@@ -307,10 +307,10 @@
             },
             {
                 "id": [
-                    "yeQTs",
-                    "zi25T",
-                    "Ii1Ks",
-                    "ukEhY"
+                    "5yIZls",
+                    "J9SWF",
+                    "5Dt02",
+                    "5oPyY"
                 ],
                 "en": "Material Widgets",
                 "ky": "Material виджеттер",
@@ -319,10 +319,10 @@
             },
             {
                 "id": [
-                    "Ary5c",
-                    "QW1R9",
-                    "8EFuy",
-                    "jm1S9"
+                    "UetTt",
+                    "5XGBz",
+                    "E7PCn",
+                    "ilolK"
                 ],
                 "en": "Cupertino widgets",
                 "ky": "Cupertino виджеттер",
@@ -331,10 +331,10 @@
             },
             {
                 "id": [
-                    "N7dCC",
-                    "RgcGh",
-                    "esEiL",
-                    "8XW77"
+                    "u7TYs",
+                    "qV9OI",
+                    "mUgca",
+                    "3pD2z"
                 ],
                 "en": "Working with Assets",
                 "ky": "Материалдар менен иштелиңиз",
@@ -343,10 +343,10 @@
             },
             {
                 "id": [
-                    "qk9jm",
-                    "QwVAZ",
-                    "YYR0P",
-                    "faE1A"
+                    "g5JzU",
+                    "GjYAa",
+                    "reGN4",
+                    "10srF"
                 ],
                 "en": "Fonts",
                 "ky": "Үлгүлөр",
@@ -355,10 +355,10 @@
             },
             {
                 "id": [
-                    "Ispga",
-                    "QDCFp",
-                    "txZwu",
-                    "IYiLN"
+                    "RCCL9",
+                    "v6XDo",
+                    "MSglS",
+                    "E4uMA"
                 ],
                 "en": "Images",
                 "ky": "Сүрөттөр",
@@ -367,10 +367,10 @@
             },
             {
                 "id": [
-                    "mXI4a",
-                    "GNdnq",
-                    "VOrcu",
-                    "lGTcI"
+                    "GsRFR",
+                    "kDQts",
+                    "reGN4",
+                    "f3v7a"
                 ],
                 "en": "Other File Types",
                 "ky": "Башка файл түрлөрү",
@@ -389,10 +389,10 @@
         "articles": [
             {
                 "id": [
-                    "0gN2d",
-                    "A2t4t",
-                    "eJdno",
-                    "ksfKz"
+                    "NTFAu",
+                    "qNgLQ",
+                    "pUnN7",
+                    "Q1cMU"
                 ],
                 "en": "Git",
                 "ky": "Git",
@@ -401,10 +401,10 @@
             },
             {
                 "id": [
-                    "s0fvW",
-                    "ugj6y",
-                    "c9Trv",
-                    "mVxFr"
+                    "oD9Wn",
+                    "2iE9V",
+                    "JmlWD",
+                    "yp8Tt"
                 ],
                 "en": "Github",
                 "ky": "Github",
@@ -423,10 +423,10 @@
         "articles": [
             {
                 "id": [
-                    "gjvvs",
-                    "MFKi6",
-                    "hrxpH",
-                    "7JmAo"
+                    "2ON0i",
+                    "pRymH",
+                    "WjPpz",
+                    "eC6Kw"
                 ],
                 "en": "Dependency Injection",
                 "ky": "Байланыштыруу ишкери",
@@ -435,10 +435,10 @@
             },
             {
                 "id": [
-                    "lbjbs",
-                    "M83gj",
-                    "A8l66",
-                    "Ob2TE"
+                    "QDRlZ",
+                    "VK8Bf",
+                    "JkVrP",
+                    "7cf7l"
                 ],
                 "en": "Design Patterns",
                 "ky": "Дизайн моддолору",
@@ -447,10 +447,10 @@
             },
             {
                 "id": [
-                    "ey23a",
-                    "1no7C",
-                    "KGCsH",
-                    "qdbTL"
+                    "bK2AK",
+                    "wWzDU",
+                    "wxP8a",
+                    "KqLfJ"
                 ],
                 "en": "SOLID Principles",
                 "ky": "SOLID принциптери",
@@ -459,10 +459,10 @@
             },
             {
                 "id": [
-                    "DKbTU",
-                    "gucmX",
-                    "hPYWW",
-                    "wOXnu"
+                    "y7yaP",
+                    "VjiCc",
+                    "aXYA1",
+                    "x6GVg"
                 ],
                 "en": "OOP",
                 "ky": "ООП",
@@ -481,10 +481,10 @@
         "articles": [
             {
                 "id": [
-                    "pVYZp",
-                    "zBm1Z",
-                    "5Rll2",
-                    "dO7bl"
+                    "hLgmx",
+                    "tcmfX",
+                    "mfSuO",
+                    "JNZS2"
                 ],
                 "en": "Pub dev",
                 "ky": "Pub dev",
@@ -493,10 +493,10 @@
             },
             {
                 "id": [
-                    "RpFdG",
-                    "hmnEe",
-                    "DSCYL",
-                    "36Lmt"
+                    "uyXs2",
+                    "4JXq8",
+                    "YgAxD",
+                    "1EfAD"
                 ],
                 "en": "Flutter pub dart pub",
                 "ky": "Flutter pub dart pub",
@@ -515,10 +515,10 @@
         "articles": [
             {
                 "id": [
-                    "pNsMw",
-                    "rXxOt",
-                    "ou32v",
-                    "RNWBR"
+                    "Yfls1",
+                    "e6N6H",
+                    "y51M5",
+                    "f33u1"
                 ],
                 "en": "Web Sockets",
                 "ky": "Web сокеттери",
@@ -527,10 +527,10 @@
             },
             {
                 "id": [
-                    "xTJmf",
-                    "qOSBD",
-                    "ERrZw",
-                    "kUWUl"
+                    "bhYO8",
+                    "rE009",
+                    "K4870",
+                    "LjSDg"
                 ],
                 "en": "GraphQL",
                 "ky": "GraphQL",
@@ -539,10 +539,10 @@
             },
             {
                 "id": [
-                    "lTR72",
-                    "2pE5h",
-                    "CioWY",
-                    "QeZpy"
+                    "0JkOd",
+                    "UFHyF",
+                    "T80Qm",
+                    "2BvAT"
                 ],
                 "en": "REST API",
                 "ky": "REST API",
@@ -561,10 +561,10 @@
         "articles": [
             {
                 "id": [
-                    "nTLYT",
-                    "bHdnL",
-                    "ZAKTC",
-                    "fyfB2"
+                    "mHtP1",
+                    "p0H35",
+                    "YXtQl",
+                    "MzKlL"
                 ],
                 "en": "SQLite",
                 "ky": "SQLite",
@@ -573,10 +573,10 @@
             },
             {
                 "id": [
-                    "v7YMi",
-                    "751HU",
-                    "DBDkJ",
-                    "8cnj0"
+                    "RSuvH",
+                    "UPg9v",
+                    "TFI9h",
+                    "BT1Sj"
                 ],
                 "en": "Shared Preferences",
                 "ky": "Shared Preferences",
@@ -585,10 +585,10 @@
             },
             {
                 "id": [
-                    "GgBWA",
-                    "LxHqG",
-                    "4hTbR",
-                    "wzXDs"
+                    "T7CLm",
+                    "yhbz7",
+                    "6rA4R",
+                    "qY3n6"
                 ],
                 "en": "Hive",
                 "ky": "Hive",
