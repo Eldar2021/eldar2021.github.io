@@ -607,10 +607,10 @@
         "articles": [
             {
                 "id": [
-                    "p5yNO",
-                    "nGzef",
-                    "8IxTg",
-                    "REnJV"
+                    "UxIQh",
+                    "BDsU3",
+                    "Ub8Vq",
+                    "ZZZfY"
                 ],
                 "en": "Firebase",
                 "ky": "Firebase",
@@ -619,10 +619,10 @@
             },
             {
                 "id": [
-                    "zcqvm",
-                    "lAsTF",
-                    "oHWxs",
-                    "NNj0s"
+                    "YVvpe",
+                    "abK3s",
+                    "FPmlw",
+                    "0PRp0"
                 ],
                 "en": "Authentication",
                 "ky": "Аутентификация",
@@ -631,10 +631,10 @@
             },
             {
                 "id": [
-                    "8XwwW",
-                    "H1meS",
-                    "FhrLz",
-                    "S7oDp"
+                    "8XTjb",
+                    "FVnMv",
+                    "UsJjv",
+                    "QGw4C"
                 ],
                 "en": "Firestore",
                 "ky": "Firestore",
@@ -643,10 +643,10 @@
             },
             {
                 "id": [
-                    "LeNmw",
-                    "QiFok",
-                    "Lb69g",
-                    "iMQ71"
+                    "E5Awq",
+                    "M7KgT",
+                    "dkdHg",
+                    "zZRVa"
                 ],
                 "en": "Storage",
                 "ky": "Сактоо",
@@ -655,10 +655,10 @@
             },
             {
                 "id": [
-                    "gBQ6n",
-                    "FVtOo",
-                    "O6Psf",
-                    "qYCbE"
+                    "pmatA",
+                    "3jKEL",
+                    "QyJ0Q",
+                    "l5dXz"
                 ],
                 "en": "Push Notifications",
                 "ky": "Push-билдирүүлөр",
@@ -667,10 +667,10 @@
             },
             {
                 "id": [
-                    "wbYBw",
-                    "c2alt",
-                    "a12On",
-                    "B9vZS"
+                    "XrNjq",
+                    "KgmD4",
+                    "khKmO",
+                    "4iR9R"
                 ],
                 "en": "Remote Config",
                 "ky": "Remote конфигурациясы",
@@ -679,10 +679,10 @@
             },
             {
                 "id": [
-                    "ewaLr",
-                    "vEd4u",
-                    "UVqZg",
-                    "GIfWD"
+                    "vIS6g",
+                    "0aWW4",
+                    "Y4gZv",
+                    "cbB9N"
                 ],
                 "en": "Firebase Cloud Functions",
                 "ky": "Firebase Cloud функциялары",
@@ -701,10 +701,10 @@
         "articles": [
             {
                 "id": [
-                    "lsugS",
-                    "7TRfO",
-                    "l3p1R",
-                    "6iTDX"
+                    "S22LL",
+                    "roapQ",
+                    "TGSHG",
+                    "UCAm5"
                 ],
                 "en": "Riverpod",
                 "ky": "Riverpod",
@@ -713,10 +713,10 @@
             },
             {
                 "id": [
-                    "KvyIn",
-                    "WX1Pg",
-                    "BVqD9",
-                    "k8NQV"
+                    "w8oHp",
+                    "JD3Ny",
+                    "NGKEb",
+                    "l9qq0"
                 ],
                 "en": "BloC",
                 "ky": "BloC",
@@ -725,10 +725,10 @@
             },
             {
                 "id": [
-                    "cHlBP",
-                    "IbopT",
-                    "l3cbI",
-                    "Vb24L"
+                    "Z19MZ",
+                    "1D66d",
+                    "nppSM",
+                    "GR2sn"
                 ],
                 "en": "Provider",
                 "ky": "Provider",
@@ -737,10 +737,10 @@
             },
             {
                 "id": [
-                    "3mK7f",
-                    "4D5UG",
-                    "qduPV",
-                    "ipxvK"
+                    "xKtAm",
+                    "C4RJ6",
+                    "3moHO",
+                    "irryO"
                 ],
                 "en": "RxDart",
                 "ky": "RxDart",
@@ -759,10 +759,10 @@
         "articles": [
             {
                 "id": [
-                    "jaueV",
-                    "VSoy1",
-                    "B4fUI",
-                    "BGQTt"
+                    "3Z0w9",
+                    "3jOXY",
+                    "s7zRS",
+                    "vpfy9"
                 ],
                 "en": "Lists",
                 "ky": "Тизмелер",
@@ -771,10 +771,10 @@
             },
             {
                 "id": [
-                    "8EC2i",
-                    "gaT1k",
-                    "eelF5",
-                    "Xv6Jt"
+                    "LW7Pf",
+                    "cNKOg",
+                    "1j1g8",
+                    "KYv2M"
                 ],
                 "en": "Collections",
                 "ky": "Коллекции",
@@ -783,10 +783,10 @@
             },
             {
                 "id": [
-                    "xvTtA",
-                    "xCqbg",
-                    "rlm8A",
-                    "fWMpP"
+                    "0U7rp",
+                    "cGWaW",
+                    "h7MdA",
+                    "6MZI8"
                 ],
                 "en": "Lambdas",
                 "ky": "Лямбда функциялар",
@@ -795,10 +795,10 @@
             },
             {
                 "id": [
-                    "A9PHV",
-                    "fSB7P",
-                    "Z4zw3",
-                    "dpfVl"
+                    "pumSw",
+                    "45765",
+                    "VYL3t",
+                    "RZn29"
                 ],
                 "en": "Functional Programming",
                 "ky": "Функционалдык программалау",
@@ -807,10 +807,10 @@
             },
             {
                 "id": [
-                    "pkgud",
-                    "YSUQN",
-                    "m5n9r",
-                    "wWxhY"
+                    "QCB8F",
+                    "ahk0U",
+                    "afJzP",
+                    "6vYF6"
                 ],
                 "en": "Isolates",
                 "ky": "Изоляциялар",
@@ -819,10 +819,10 @@
             },
             {
                 "id": [
-                    "3foWD",
-                    "1EMM5",
-                    "hW7j1",
-                    "uEabk"
+                    "ufWm0",
+                    "Bl8Ep",
+                    "A2zRT",
+                    "rGlB1"
                 ],
                 "en": "Async Await",
                 "ky": "Асинк-бекардоо",
@@ -831,10 +831,10 @@
             },
             {
                 "id": [
-                    "cIYIM",
-                    "n45jh",
-                    "gv3zB",
-                    "9fuXT"
+                    "3jRVL",
+                    "u5tPs",
+                    "Wxtnq",
+                    "IbxvQ"
                 ],
                 "en": "Streams",
                 "ky": "Стримдер",
@@ -843,10 +843,10 @@
             },
             {
                 "id": [
-                    "3ircg",
-                    "6u5Nj",
-                    "kFM2a",
-                    "XH0hQ"
+                    "Li69o",
+                    "R0JK2",
+                    "jFqNo",
+                    "UpIVp"
                 ],
                 "en": "Futures",
                 "ky": "Futures",
@@ -865,10 +865,10 @@
         "articles": [
             {
                 "id": [
-                    "yk3n2",
-                    "zp36q",
-                    "STW51",
-                    "v7Fe1"
+                    "SMHdW",
+                    "KFaMx",
+                    "80QBn",
+                    "68pMI"
                 ],
                 "en": "Hero",
                 "ky": "Hero",
@@ -877,10 +877,10 @@
             },
             {
                 "id": [
-                    "2jvVI",
-                    "RrAm3",
-                    "YAfQe",
-                    "42fIU"
+                    "oP1YJ",
+                    "gR3LM",
+                    "x7V0K",
+                    "e5A60"
                 ],
                 "en": "Opacity",
                 "ky": "Тунук эмес",
@@ -899,10 +899,10 @@
         "articles": [
             {
                 "id": [
-                    "J5Ll9",
-                    "J1lo0",
-                    "4yw22",
-                    "HDuYf"
+                    "AJu25",
+                    "MUEDF",
+                    "xyVDd",
+                    "1DEGY"
                 ],
                 "en": "Unit Testing",
                 "ky": "Бөлүктөөн тесттеңиздөө",
@@ -911,10 +911,10 @@
             },
             {
                 "id": [
-                    "FT9w8",
-                    "MjsKT",
-                    "hidj9",
-                    "VUrDW"
+                    "Ugvp8",
+                    "Aoj11",
+                    "qAkNa",
+                    "cRPVt"
                 ],
                 "en": "Widget Testing",
                 "ky": "Виджеттин тесттеңиздөөсү",
@@ -923,10 +923,10 @@
             },
             {
                 "id": [
-                    "BmdsT",
-                    "NprDj",
-                    "1j04M",
-                    "viW9l"
+                    "rwIHc",
+                    "DsyvS",
+                    "z1Bhw",
+                    "aMvYa"
                 ],
                 "en": "Integration Testing",
                 "ky": "Интеграциялуу тесттеңиздөө",
@@ -935,10 +935,10 @@
             },
             {
                 "id": [
-                    "lviEL",
-                    "gVxLf",
-                    "HbdAt",
-                    "yEJv7"
+                    "1NqWw",
+                    "NdCnd",
+                    "5G1l6",
+                    "v3rhU"
                 ],
                 "en": "TDD",
                 "ky": "TDD",
@@ -947,10 +947,10 @@
             },
             {
                 "id": [
-                    "3qVLk",
-                    "jf4qi",
-                    "HtTD9",
-                    "oNk3R"
+                    "LcUEW",
+                    "LCZFI",
+                    "Tuwcz",
+                    "538F4"
                 ],
                 "en": "BDD",
                 "ky": "BDD",
@@ -969,10 +969,10 @@
         "articles": [
             {
                 "id": [
-                    "ZKx0c",
-                    "6fkRS",
-                    "5djAJ",
-                    "1nSbX"
+                    "VYK8D",
+                    "J1Z7s",
+                    "XEwbZ",
+                    "a58PE"
                 ],
                 "en": "Appstore",
                 "ky": "Appstore",
@@ -981,10 +981,10 @@
             },
             {
                 "id": [
-                    "VU581",
-                    "WT3xE",
-                    "yxuDl",
-                    "916JO"
+                    "LFSW9",
+                    "SNkiZ",
+                    "gq6DM",
+                    "Qlttl"
                 ],
                 "en": "Playstore",
                 "ky": "Playstore",
@@ -993,10 +993,10 @@
             },
             {
                 "id": [
-                    "qcjwa",
-                    "XW5Cg",
-                    "IMMT8",
-                    "PBZbs"
+                    "SruRg",
+                    "scmAF",
+                    "xoJa8",
+                    "9lkCs"
                 ],
                 "en": "Guidelines and Protocols",
                 "ky": "Жүйөлөрдүн жөнөтү",
@@ -1015,10 +1015,10 @@
         "articles": [
             {
                 "id": [
-                    "YNzLY",
-                    "He6ld",
-                    "HBNb3",
-                    "DWmjz"
+                    "uM1ZG",
+                    "PmoiT",
+                    "6okNt",
+                    "c5GCu"
                 ],
                 "en": "Fast lane",
                 "ky": "Fast lane",
@@ -1027,10 +1027,10 @@
             },
             {
                 "id": [
-                    "caRmX",
-                    "OCiAl",
-                    "hSdfB",
-                    "S81vU"
+                    "jpDZU",
+                    "iNAQg",
+                    "rTEFD",
+                    "NBSyv"
                 ],
                 "en": "Codemagic",
                 "ky": "Codemagic",
@@ -1039,10 +1039,10 @@
             },
             {
                 "id": [
-                    "DHS5e",
-                    "XoxJk",
-                    "4f0Wb",
-                    "6QBL2"
+                    "SLGqg",
+                    "CL452",
+                    "AOmhT",
+                    "5nbsm"
                 ],
                 "en": "Bitrise",
                 "ky": "Bitrise",
@@ -1051,10 +1051,10 @@
             },
             {
                 "id": [
-                    "Mj6dO",
-                    "7ooFE",
-                    "PnkZU",
-                    "4lOPj"
+                    "1vF8L",
+                    "xeOMd",
+                    "fGSS3",
+                    "78JwQ"
                 ],
                 "en": "Github Actions",
                 "ky": "Github Actions",
@@ -1063,10 +1063,10 @@
             },
             {
                 "id": [
-                    "8wTL9",
-                    "rKfK7",
-                    "KEyHb",
-                    "GQlHw"
+                    "7vba0",
+                    "pfydP",
+                    "pT696",
+                    "YPDv6"
                 ],
                 "name": "Firebase App Distribution",
                 "en": "Firebase App Distribution",
