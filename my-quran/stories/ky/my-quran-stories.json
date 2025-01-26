@@ -1,61 +1,112 @@
 [
     {
-        "cardImageUrl": "https://t3.ftcdn.net/jpg/05/68/99/80/360_F_568998040_m42feFA9RajqmuR5DTlWwox44fxE3MOi.jpg",
-        "cardLabel": "Хатым\nKөрсөтмөлөр",
-        "isViewed": false,
+        "cardImageUrl": "https://eldar2021.github.io/my-quran/assets/aa_story_card/app.jpeg",
+        "cardLabel": "Тиркемени\nЖөндөө", "isViewed": false,
         "button": {
             "hasButton": false,
             "label": "",
             "action": ""
         },
-        "screens": [
+        "screkys": [
             {
-                "imageUrl": "https://t3.ftcdn.net/jpg/05/68/99/80/360_F_568998040_m42feFA9RajqmuR5DTlWwox44fxE3MOi.jpg",
-                "durationByMilliseconds": 2000
+                "imageUrl": "https://eldar2021.github.io/my-quran/assets/ky/app_01_v1.png",
+                "durationByMilliseconds": 5000
             },
             {
-                "imageUrl": "https://t3.ftcdn.net/jpg/07/02/55/16/360_F_702551695_zBR0B1IrgGCJdgZbYE6dzlExKhAxD4OC.jpg",
-                "durationByMilliseconds": 2000
+                "imageUrl": "https://eldar2021.github.io/my-quran/assets/ky/app_02_v1.png",
+                "durationByMilliseconds": 5000
+            },
+            {
+                "imageUrl": "https://eldar2021.github.io/my-quran/assets/ky/app_03_v1.png",
+                "durationByMilliseconds": 5000
             }
         ]
     },
     {
-        "cardImageUrl": "https://thumbs.dreamstime.com/b/closeup-holy-quran-captured-near-sacred-kaaba-mecca-highlighting-its-spiritual-significance-ai-generated-image-329385127.jpg",
-        "cardLabel": "Куран\nKөрсөтмөлөр",
+        "cardImageUrl": "https://eldar2021.github.io/my-quran/assets/aa_story_card/hatim.png",
+        "cardLabel": "Хатымга\nКошулуу",
         "isViewed": false,
         "button": {
             "hasButton": false,
             "label": "",
             "action": ""
         },
-        "screens": [
+        "screkys": [
             {
-                "imageUrl": "https://thumbs.dreamstime.com/b/closeup-holy-quran-captured-near-sacred-kaaba-mecca-highlighting-its-spiritual-significance-ai-generated-image-329385127.jpg",
-                "durationByMilliseconds": 2000
+                "imageUrl": "https://eldar2021.github.io/my-quran/assets/ky/hatim_01_v1.png",
+                "durationByMilliseconds": 5000
             },
             {
-                "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaczS5PI_ePL2HwRhlEq1PPZjpLFw3PY3D5w&s",
-                "durationByMilliseconds": 2000
+                "imageUrl": "https://eldar2021.github.io/my-quran/assets/ky/hatim_02_v1.png",
+                "durationByMilliseconds": 5000
+            },
+            {
+                "imageUrl": "https://eldar2021.github.io/my-quran/assets/ky/hatim_03_v1.png",
+                "durationByMilliseconds": 5000
+            },
+            {
+                "imageUrl": "https://eldar2021.github.io/my-quran/assets/ky/hatim_04_v1.png",
+                "durationByMilliseconds": 5000
             }
         ]
     },
     {
-        "cardImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-IlJBNJLlv1cdFJ7xVWMkAjfk-mSWAJFvCu2HctMMRBRRyphoZTe0wjbkUl75fR97odM&usqp=CAU",
-        "cardLabel": "Aудио\nKөрсөтмөлөр",
+        "cardImageUrl": "https://eldar2021.github.io/my-quran/assets/aa_story_card/quran_audio.png",
+        "cardLabel": "Куран\nУгуңуз",
         "isViewed": false,
         "button": {
             "hasButton": false,
             "label": "",
             "action": ""
         },
-        "screens": [
+        "screkys": [
             {
-                "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-IlJBNJLlv1cdFJ7xVWMkAjfk-mSWAJFvCu2HctMMRBRRyphoZTe0wjbkUl75fR97odM&usqp=CAU",
-                "durationByMilliseconds": 2000
+                "imageUrl": "https://eldar2021.github.io/my-quran/assets/ky/quran_audio_01_v1.png",
+                "durationByMilliseconds": 5000
+            }
+        ]
+    },
+    {
+        "cardImageUrl": "https://eldar2021.github.io/my-quran/assets/aa_story_card/quran_book.png",
+        "cardLabel": "Куран\nокуңуз",
+        "isViewed": false,
+        "button": {
+            "hasButton": false,
+            "label": "",
+            "action": ""
+        },
+        "screkys": [
+            {
+                "imageUrl": "https://eldar2021.github.io/my-quran/assets/ky/quran_book_01_v1.png",
+                "durationByMilliseconds": 5000
             },
             {
-                "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqILNo55rnX2dLPvHPlu0Rr3_KkjM_ajDTEQ&s",
-                "durationByMilliseconds": 2000
+                "imageUrl": "https://eldar2021.github.io/my-quran/assets/ky/quran_book_02_v1.png",
+                "durationByMilliseconds": 5000
+            },
+            {
+                "imageUrl": "https://eldar2021.github.io/my-quran/assets/ky/quran_book_03_v1.png",
+                "durationByMilliseconds": 5000
+            },
+            {
+                "imageUrl": "https://eldar2021.github.io/my-quran/assets/ky/quran_book_04_v1.png",
+                "durationByMilliseconds": 5000
+            }
+        ]
+    },
+    {
+        "cardImageUrl": "https://eldar2021.github.io/my-quran/assets/aa_story_card/app_share.jpg",
+        "cardLabel": "Тиркемени\nБөлүшүңүз",
+        "isViewed": false,
+        "button": {
+            "hasButton": false,
+            "label": "",
+            "action": ""
+        },
+        "screkys": [
+            {
+                "imageUrl": "https://eldar2021.github.io/my-quran/assets/ky/app_share_01_v1.png",
+                "durationByMilliseconds": 5000
             }
         ]
     }
