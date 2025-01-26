@@ -8,7 +8,7 @@
             "label": "",
             "action": ""
         },
-        "screrus": [
+        "screens": [
             {
                 "imageUrl": "https://eldar2021.github.io/my-quran/assets/ru/app_01_v1.png",
                 "durationByMilliseconds": 5000
@@ -32,7 +32,7 @@
             "label": "",
             "action": ""
         },
-        "screrus": [
+        "screens": [
             {
                 "imageUrl": "https://eldar2021.github.io/my-quran/assets/ru/hatim_01_v1.png",
                 "durationByMilliseconds": 5000
@@ -60,7 +60,7 @@
             "label": "",
             "action": ""
         },
-        "screrus": [
+        "screens": [
             {
                 "imageUrl": "https://eldar2021.github.io/my-quran/assets/ru/quran_audio_01_v1.png",
                 "durationByMilliseconds": 5000
@@ -76,7 +76,7 @@
             "label": "",
             "action": ""
         },
-        "screrus": [
+        "screens": [
             {
                 "imageUrl": "https://eldar2021.github.io/my-quran/assets/ru/quran_book_01_v1.png",
                 "durationByMilliseconds": 5000
@@ -104,7 +104,7 @@
             "label": "",
             "action": ""
         },
-        "screrus": [
+        "screens": [
             {
                 "imageUrl": "https://eldar2021.github.io/my-quran/assets/ru/app_share_01_v1.png",
                 "durationByMilliseconds": 5000

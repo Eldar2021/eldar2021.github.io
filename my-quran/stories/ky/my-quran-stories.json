@@ -1,13 +1,14 @@
 [
     {
         "cardImageUrl": "https://eldar2021.github.io/my-quran/assets/aa_story_card/app.jpeg",
-        "cardLabel": "Тиркемени\nЖөндөө", "isViewed": false,
+        "cardLabel": "Тиркемени\nЖөндөө",
+        "isViewed": false,
         "button": {
             "hasButton": false,
             "label": "",
             "action": ""
         },
-        "screkys": [
+        "screens": [
             {
                 "imageUrl": "https://eldar2021.github.io/my-quran/assets/ky/app_01_v1.png",
                 "durationByMilliseconds": 5000
@@ -31,7 +32,7 @@
             "label": "",
             "action": ""
         },
-        "screkys": [
+        "screens": [
             {
                 "imageUrl": "https://eldar2021.github.io/my-quran/assets/ky/hatim_01_v1.png",
                 "durationByMilliseconds": 5000
@@ -59,7 +60,7 @@
             "label": "",
             "action": ""
         },
-        "screkys": [
+        "screens": [
             {
                 "imageUrl": "https://eldar2021.github.io/my-quran/assets/ky/quran_audio_01_v1.png",
                 "durationByMilliseconds": 5000
@@ -75,7 +76,7 @@
             "label": "",
             "action": ""
         },
-        "screkys": [
+        "screens": [
             {
                 "imageUrl": "https://eldar2021.github.io/my-quran/assets/ky/quran_book_01_v1.png",
                 "durationByMilliseconds": 5000
@@ -103,7 +104,7 @@
             "label": "",
             "action": ""
         },
-        "screkys": [
+        "screens": [
             {
                 "imageUrl": "https://eldar2021.github.io/my-quran/assets/ky/app_share_01_v1.png",
                 "durationByMilliseconds": 5000
