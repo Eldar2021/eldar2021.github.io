@@ -1,0 +1,39 @@
+{
+  "verses": [
+    {
+      "id": 8,
+      "verse_key": "2:1",
+      "code_v2": "ﱁ ﱂ",
+      "v2_page": 2
+    },
+    {
+      "id": 9,
+      "verse_key": "2:2",
+      "code_v2": "ﱃ ﱄ ﱅ ﱆ ﱇ ﱈ ﱉ ﱊ ﱋ ﱌ",
+      "v2_page": 2
+    },
+    {
+      "id": 10,
+      "verse_key": "2:3",
+      "code_v2": "ﱍ ﱎ ﱏ ﱐ ﱑ ﱒ ﱓ ﱔ ﱕ",
+      "v2_page": 2
+    },
+    {
+      "id": 11,
+      "verse_key": "2:4",
+      "code_v2": "ﱖ ﱗ ﱘ ﱙ ﱚ ﱛ ﱜ ﱝ ﱞ ﱟ ﱠ ﱡ ﱢ",
+      "v2_page": 2
+    },
+    {
+      "id": 12,
+      "verse_key": "2:5",
+      "code_v2": "ﱣ ﱤ ﱥ ﱦ ﱧ ﱨ ﱩ ﱪ ﱫ ﱬ",
+      "v2_page": 2
+    }
+  ],
+  "meta": {
+    "filters": {
+      "page_number": "2"
+    }
+  }
+}
